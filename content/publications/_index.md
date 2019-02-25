@@ -3,22 +3,23 @@ title: "Publications"
 date: 2019-02-24T19:10:15+01:00
 draft: false
 ---
+
 (in review) **M. Wiedermann**, R. Winkelmann,  J.F. Donges, C. Eder, J. Heitzig, A.
 Katsandiou, E.K. Smith\
 *Can Antarctica tip climate policy?*
 
-(in review) I. Otto, J. F. Donges, **M. Wiedermann**, R. Cremades, W. Lucht\
+(in review) I.M. Otto, J.F. Donges, **M. Wiedermann**, R. Cremades, W. Lucht\
 *Human agency in the Anthropocene*
 
-(in review) **M. Wiedermann**, J. F. Siegmund, J. F. Donges, J. Kurths, R. V.
+(in review) **M. Wiedermann**, J.F. Siegmund, J.F. Donges, J. Kurths, R.V.
 Donner
 *Differential imprints of distinct ENSO flavors in global extreme precipitation
 patterns*\
 Click [here](arXiv:1702.00218) for a preprint
 
-(in review) J. F. Donges, J. Heitzig, W. Barfuss, J. A. Kassel, T. Kittel, J.
+(in review) J.F. Donges, J. Heitzig, W. Barfuss, J.A. Kassel, T. Kittel, J.
 J. Kolb, T. Kolster, F. Müller-Hansen, I. M. Otto, **M. Wiedermann**, K. B.
-Zimmerer, and W. Lucht\
+Zimmerer, W. Lucht\
 *Earth system modelling with complex dynamic human societies: the copan:CORE
 World-Earth modeling framework*\
 Earth Syst. Dynam. Discuss. (2018)\
@@ -45,7 +46,7 @@ Phys. Rev. E 96, 042304 (2017)\
 doi: [10.1103/PhysRevE.96.042304](https://dx.doi.org/10.1103/PhysRevE.96.042304
 )
 
-**P12** W. Barfuss, J.F. Donges, **M. Wiedermann**, W. Lucht
+**P12** W. Barfuss, J.F. Donges, **M. Wiedermann**, W. Lucht\
 *Sustainable use of renewable resources in a stylized social-ecological network
 model under heterogeneous resource distribution*\
 Earth System Dynamics 8, 255-264 (2017)\
@@ -116,7 +117,8 @@ real-world complex systems*\
 Europhysics Letters 102, 28007 (2013)\
 doi: [10.1209/0295-5075/102/28007](https://dx.doi.org/10.1209/0295-5075/102/28007)
 
-**P01** M. Aliev, H. Lacker, U. Langenfeld, S. Moch, P. Uwer, **M. Wiedermann**
+**P01** M. Aliev, H. Lacker, U. Langenfeld, S. Moch, P. Uwer, **M.
+Wiedermann**\
 *HATHOR – HAdronic Top and Heavy quarks crOss section calculatoR*\
 Computer Physics Communications 182(4), 1034–1046 (2011)\
 doi: [10.1016/j.cpc.2010.12.040](https://doi.org/10.1016/j.cpc.2010.12.040)
