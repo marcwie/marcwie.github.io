@@ -5,12 +5,6 @@ theme = "cocoa"
 author = ""
 
 [[menu.main]]
-name                   = "About"
-weight                 = -110
-identifier             = "about"
-url                    = "/about/"
-
-[[menu.main]]
 name                   = "Publications"
 weight                 = -110
 identifier             = "publications"
@@ -27,7 +21,6 @@ name                   = "Conferences"
 weight                 = -110
 identifier             = "conferences"
 url                    = "/conferences/"
-
 
 [params]
 avatar = "img/profile.jpeg" 
