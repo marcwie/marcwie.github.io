@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2019-02-25T10:56:44+01:00
-draft: true
+draft: false
 ---
 
 Here you find a growing collection of my science, visualization and coding
