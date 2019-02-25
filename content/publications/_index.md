@@ -12,7 +12,7 @@ Katsandiou, E.K. Smith\
 *Human agency in the Anthropocene*
 
 (in review) **M. Wiedermann**, J.F. Siegmund, J.F. Donges, J. Kurths, R.V.
-Donner
+Donner\
 *Differential imprints of distinct ENSO flavors in global extreme precipitation
 patterns*\
 Click [here](arXiv:1702.00218) for a preprint
@@ -26,7 +26,7 @@ Earth Syst. Dynam. Discuss. (2018)\
 doi:
 [10.5194/esd-2017-126](https://www.earth-syst-dynam-discuss.net/esd-2017-126/)
 
-**P15** R. V. Donner, G. Balasis, V. Stolbova, M. Georgiou, **M. Wiedermann**, J.
+**P15** R.V. Donner, G. Balasis, V. Stolbova, M. Georgiou, **M. Wiedermann**, J.
 Kurths\
 *Recurrence based quantification of dynamical complexity in the Earth's
 magnetosphere at geospace storm timescales*\
@@ -90,7 +90,7 @@ systems science: The pyunicorn package*\
 Chaos 25, 113101 (2015)\
 doi: [10.1063/1.4934554](https://dx.doi.org/10.1063/1.4934554)
 
-**P05** **M. Wiedermann**, J.F. Donges, J. Heitzig, W. Lucht, J. Kurths \
+**P05** **M. Wiedermann**, J.F. Donges, J. Heitzig, W. Lucht, J. Kurths\
 *Macroscopic description of complex adaptive networks co-evolving with dynamic
 node states*\
 Physical Review E 91, 052801 (2015)\
