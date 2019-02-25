@@ -5,6 +5,12 @@ theme = "cocoa"
 author = ""
 
 [[menu.main]]
+name                   = "About"
+weight                 = -110
+identifier             = "about"
+url                    = "/about/"
+
+[[menu.main]]
 name                   = "Publications"
 weight                 = -110
 identifier             = "publications"
@@ -16,12 +22,17 @@ weight                 = -110
 identifier             = "teaching"
 url                    = "/teaching/"
 
+[[menu.main]]
+name                   = "Conferences"
+weight                 = -110
+identifier             = "conferences"
+url                    = "/conferences/"
+
+
 [params]
 avatar = "img/profile.jpeg" 
 author = "Marc Wiedermann"
-selfintro = """Hi, I'm Marc. I hold a PhD in physics and currently work as a
-postdoc at the Potsdam Institute for Climate Impact Research. I am interested
-in complex networks, complex contagion and social tipping."""
+selfintro = ""
 github = "//github.com/marcwie"
 email = "marcwie@pik-potsdam.de"
 extracssfiles = ["/css/override.css"] 

@@ -15,7 +15,7 @@ Cologne Summer School 2015: Non-Linear Methods for
 Complex Systems Analysis\
 University of Cologne
 
-**Winter term 2014/2015**: \
+**Winter term 2014 / 2015**: \
 [Nonlinear Dynamics in the Earth System: Climate, Ecology
 and
 Socio-Economy](https://www.pik-potsdam.de/members/redonner/lecture-nld-in-the-earth-system-summer-term-2014)\ 
