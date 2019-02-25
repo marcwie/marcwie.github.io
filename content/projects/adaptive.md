@@ -1,5 +1,5 @@
 ---
-title: "Adaptive Voter Model"
+title: "Visualization of the Adaptive Voter Model"
 date: 2019-02-25T19:55:33+01:00
 draft: true
 ---
@@ -26,5 +26,4 @@ simulation is stopped.
 
 <div id="svg"><div>
 
-<script src="/js/control.js"></script>
-<script src="/js/network.js"></script>
+<script src="/js/adaptivevoter.js"></script>
