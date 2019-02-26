@@ -11,6 +11,6 @@ the Potsdam Institute for Climate Impact Research.
 My work is part of the Leibniz Project
 [DominoES](https://www.pik-potsdam.de/research/projects/activities/dominoes)
 and the FutureLab on Game Theory & Networks of Interacting Agents
-[Gane](https://www.pik-potsdam.de/members/heitzig/gane).
+[Gane](https://www.pik-potsdam.de/research/futurelabs/gane).
 
 My interests are in complex networks, time series analysis, complex contagion and social tipping.

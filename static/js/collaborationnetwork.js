@@ -7,11 +7,14 @@ d3.json("/data/collaboration_network.json", function(json) {
   force.nodes(json.nodes).links(json.links).start();
 
   // 'link' must be a global variable (so drop the 'var' in front)
-  link = svgNetwork.selectAll(".link").data(json.links).enter().append("line")
-            .attr("class", "link")
-            .style("stroke-width", function(d) {return d.weight})
-            .style('stroke', "#34495e")
-            .attr("opacity", 0.25)
+  link = svgNetwork.selectAll(".link")
+    .data(json.links)
+    .enter()
+    .append("line")
+    .attr("class", "link")
+    .style("stroke-width", function(d) {return d.weight})
+    .style('stroke', "#34495e")
+    .attr("opacity", 0.25)
 
   linkedByIndex = {};
   json.links.forEach(function(d) {
@@ -22,14 +25,21 @@ d3.json("/data/collaboration_network.json", function(json) {
   });
 
   var node = svgNetwork.selectAll(".node")
-                .data(json.nodes)
-                .enter().append("g")
-                .attr("class", "node")
-                .call(force.drag);
+    .data(json.nodes)
+    .enter()
+    .append("g")
+    .attr("class", "node")
+    .call(force.drag);
 
-  node.append("circle").attr("r","10");
-  node.append("text").attr("dx", 12).attr("dy", ".35em").style("fill", "black")
-                     .text(function(d) { return d.name });
+  node.append("circle")
+    .attr("r","10");
+
+  node.append("text")
+    .attr("dx", 12)
+    .attr("dy", ".35em")
+    .style("fill", "black")
+    .text(function(d) { return d.name });
+
   node.attr("opacity", function(o) {return 0.25;});
   node.style("fill", function (d) { return '#1f77b4';  })
 
@@ -56,14 +66,6 @@ d3.json("/data/collaboration_network.json", function(json) {
   });
 });
 
-function colorLinks(d){
-  // Color the links
-  link.style('stroke', function(l) {
-    if (d === l.source || d === l.target) return "#EC5725";
-    else return "#34495e";
-  });
-}
-
 function highlightLinks(d){
   // Color the links
   link.attr('opacity', function(l) {
@@ -71,7 +73,6 @@ function highlightLinks(d){
     else return 0.25;
   });
 }
-
 
 function neighboring(a, b) {
   return linkedByIndex[a.index + "," + b.index];
