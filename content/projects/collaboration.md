@@ -6,9 +6,10 @@ draft: false
 
 This is a visualization of my collaboration network. It is generated from the
 entries in my [publication list](/publications/). I have removed myself, i.e.,
-the ego-node, as otherwise all authors would be connected to me. Hover over the
-nodes to see which authors appear on the same papers. The width of the edges
-gives the frequency of collaborations between pairs of co-authors. 
+the ego-node, as otherwise all co-authors would be connected to me and the
+network would become more star-like. Hover over the nodes to see which authors
+appear on the same papers. The width of the edges gives the frequency of
+collaborations between pairs of co-authors. 
 
 <script src="https://d3js.org/d3.v2.min.js?2.9.3"></script>
 
