@@ -4,11 +4,17 @@ date: 2019-02-25T10:56:44+01:00
 draft: false
 ---
 
+**06/2019**: DominoES Workshop on "Social Tipping Elements
+relevant to stay within planetary boundaries", Cologne
+
 **09/2018**: Conference on Complex Systems, Thessaloniki\
 - *Mapping and discrimination of networks in the complexity-entropy plane* ([Talk](http://ccs2018.web.auth.gr/mapping-and-discrimination-networks-complexity-entropy-plane))
 
 **08/2018**: Workshop on "Social Media, Collective Behavior, and Systemic Risk",
 Princeton
+
+**06/2018**: DominoES Workshop on "Social Tipping Elements Decisive for the
+Future of the Anthropocene", Cologne
 
 **03/2018**: DPG Spring Meeting, Berlin\
 - *Mapping and discrimination of networks in the complexity-entropy plane* ([Talk](https://www.dpg-verhandlungen.de/year/2018/conference/berlin/part/dy/session/51/contribution/1))

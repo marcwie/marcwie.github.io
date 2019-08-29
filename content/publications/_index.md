@@ -4,8 +4,13 @@ date: 2019-02-24T19:10:15+01:00
 draft: false
 ---
 
+(in review) F. Geier, W. Barfuss, **M. Wiedermann**, J. Kurths, J.F. Donges\
+*The physics of governance networks: critical transitions in contagion
+dynamics on multilayer adaptive networks with application to the sustainable
+use of renewable resources*
+
 (in review) **M. Wiedermann**, R. Winkelmann,  J.F. Donges, C. Eder, J. Heitzig, A.
-Katsandiou, E.K. Smith\
+Katsanidou, E.K. Smith\
 *Can Antarctica tip climate policy?*
 
 (in review) I.M. Otto, J.F. Donges, **M. Wiedermann**, R. Cremades, W. Lucht\
