@@ -4,17 +4,9 @@ date: 2019-02-24T19:10:15+01:00
 draft: false
 ---
 
-(in review) F. Geier, W. Barfuss, **M. Wiedermann**, J. Kurths, J.F. Donges\
-*The physics of governance networks: critical transitions in contagion
-dynamics on multilayer adaptive networks with application to the sustainable
-use of renewable resources*
-
 (in review) **M. Wiedermann**, R. Winkelmann,  J.F. Donges, C. Eder, J. Heitzig, A.
 Katsanidou, E.K. Smith\
 *Can Antarctica tip climate policy?*
-
-(accepted for publication in Environmental Economics) I.M. Otto, **M. Wiedermann**, J.F. Donges, R. Cremades, W. Lucht\
-*Human agency in the Anthropocene*
 
 (in review) **M. Wiedermann**, J.F. Siegmund, J.F. Donges, J. Kurths, R.V.
 Donner\
@@ -30,6 +22,14 @@ World-Earth modeling framework*\
 Earth Syst. Dynam. Discuss. (2018)\
 doi:
 [10.5194/esd-2017-126](https://www.earth-syst-dynam-discuss.net/esd-2017-126/)
+
+(accepted for publication in EPJ ST) F. Geier, W. Barfuss, **M. Wiedermann**, J. Kurths, J.F. Donges\
+*The physics of governance networks: critical transitions in contagion
+dynamics on multilayer adaptive networks with application to the sustainable
+use of renewable resources*
+
+(accepted for publication in Environmental Economics) I.M. Otto, **M. Wiedermann**, J.F. Donges, R. Cremades, W. Lucht\
+*Human agency in the Anthropocene*
 
 **P15** R.V. Donner, G. Balasis, V. Stolbova, M. Georgiou, **M. Wiedermann**, J.
 Kurths\
