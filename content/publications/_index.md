@@ -13,7 +13,7 @@ use of renewable resources*
 Katsanidou, E.K. Smith\
 *Can Antarctica tip climate policy?*
 
-(in review) I.M. Otto, J.F. Donges, **M. Wiedermann**, R. Cremades, W. Lucht\
+(accepted for publication in Environmental Economics) I.M. Otto, **M. Wiedermann**, J.F. Donges, R. Cremades, W. Lucht\
 *Human agency in the Anthropocene*
 
 (in review) **M. Wiedermann**, J.F. Siegmund, J.F. Donges, J. Kurths, R.V.
