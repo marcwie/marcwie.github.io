@@ -27,6 +27,7 @@ doi:
 *The physics of governance networks: critical transitions in contagion
 dynamics on multilayer adaptive networks with application to the sustainable
 use of renewable resources*
+Click [here](arxiv.org/abs/1906.08679) for a preprint
 
 (accepted for publication in Environmental Economics) I.M. Otto, **M. Wiedermann**, J.F. Donges, R. Cremades, W. Lucht\
 *Human agency in the Anthropocene*
