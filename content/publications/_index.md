@@ -26,7 +26,7 @@ doi:
 (accepted for publication in EPJ ST) F. Geier, W. Barfuss, **M. Wiedermann**, J. Kurths, J.F. Donges\
 *The physics of governance networks: critical transitions in contagion
 dynamics on multilayer adaptive networks with application to the sustainable
-use of renewable resources*
+use of renewable resources*\
 Click [here](arxiv.org/abs/1906.08679) for a preprint
 
 (accepted for publication in Environmental Economics) I.M. Otto, **M. Wiedermann**, J.F. Donges, R. Cremades, W. Lucht\

@@ -4,6 +4,10 @@ date: 2019-02-25T10:56:44+01:00
 draft: false
 ---
 
+**09/2019**: International Workshop on Complex Systems and Networks, Berlin\
+- *A network-based microfoundation of Granovetter’s threshold model for social
+  tipping* ([Talk](https://www.physics.hu-berlin.de/en/iwcsn/program))
+
 **06/2019**: DominoES Workshop on "Social Tipping Elements
 relevant to stay within planetary boundaries", Cologne
 
