@@ -17,8 +17,15 @@ My interests are in complex networks, time series analysis, complex contagion an
 
 ## News
 
-- Our new paper on *The physics of governance networks* is now available on the
-  [arxiv](https://arxiv.org/abs/1906.08679).
-- I worked with Design students from the University of Applied sciences Potsdam to create [visual arts
-  experiments](https://vimeo.com/363540500) of different Tipping Elements in the Earth System. 
-  
+**22 Oct. '19:** I had the fortune to co-author [Ilona
+Otto's](https://www.pik-potsdam.de/members/banaszak/) paper on [Human agency in
+the Anthropocene](https://doi.org/10.1016/j.ecolecon.2019.106463) which is now
+published in Ecological Economics.
+
+**3 Oct. '19:** I worked with Design students from the University of Applied
+sciences Potsdam to create visual arts experiments of different Tipping
+Elements in the Earth System. A video of the installations can be seen
+[here](https://vimeo.com/363540500).
+
+**19 Jun. '19:** Our new paper on *The physics of governance networks* is now
+available on the [arxiv](https://arxiv.org/abs/1906.08679).

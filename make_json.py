@@ -7,14 +7,16 @@ unique_authors = set()
 with open("content/publications/_index.md", "r") as data:
     data = data.read()
     data = data.split("---")[2]
-    data = data.split("\n\n")
-    data = [d for d in data if len(d)]
+    #data = data.split("\n\n")
+    data = data.split("**P")[1:]
+    #data = [d for d in data if len(d)]
     for entry in data:
         entry = entry.split("\\")
         authors = entry[0]
         authors = authors.replace("*", "")
         authors = authors.split(",")
         authors = [a.replace("\n", " ") for a in authors]
+
         surnames = [a.split(".")[:-1] for a in authors]
 
         for i in range(1, len(surnames)):
@@ -28,6 +30,7 @@ with open("content/publications/_index.md", "r") as data:
         lastnames = [a.split(" ")[-1] for a  in authors]
         authors = [s+" "+l for s,l in zip(surnames, lastnames)]
         authors = [a for a in authors if a != "M. Wiedermann"]
+
         for a in authors:
             unique_authors.add(a)
         co_authors.append(authors)
