@@ -11,11 +11,18 @@ the Potsdam Institute for Climate Impact Research.
 My work is part of the Leibniz Project
 [DominoES](https://www.pik-potsdam.de/research/projects/activities/dominoes)
 and the FutureLab on Game Theory & Networks of Interacting Agents
-[Gane](https://www.pik-potsdam.de/research/futurelabs/gane).
+[Gane](https://www.pik-potsdam.de/research/futurelabs/gane). I am also a member
+of the [copan
+collaboration](https://www.pik-potsdam.de/research/projects/activities/copan).
 
 My interests are in complex networks, time series analysis, complex contagion and social tipping.
 
 ## News
+
+**25 Oct. '19:** Fabian Geier's (former master student with us at
+[copan](https://www.pik-potsdam.de/research/projects/activities/copan)) paper
+on [The physics of governance networks](https://doi.org/10.1140/epjst/e2019-900120-4)
+is now published in EPJ ST.
 
 **22 Oct. '19:** I had the fortune to co-author [Ilona
 Otto's](https://www.pik-potsdam.de/members/banaszak/) paper on [Human agency in

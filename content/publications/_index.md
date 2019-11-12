@@ -10,7 +10,7 @@ Preprints of most my publications are also found in the
 ## In Review
 
 **M. Wiedermann**, E.K. Smith, J. Heitzig, J.F. Donges\
-A network-based microfoundation of Granovetter’s threshold model for social tipping
+[A network-based microfoundation of Granovetter’s threshold model for social tipping](https://arxiv.org/abs/1911.04126)
 
 **M. Wiedermann**, R. Winkelmann,  J.F. Donges, C. Eder, J. Heitzig, A. Katsanidou, E.K. Smith\
 Can Antarctica tip climate policy?
@@ -24,14 +24,13 @@ J.F. Donges, J. Heitzig, W. Barfuss, J.A. Kassel, T. Kittel, J. J. Kolb, T. Kols
 World-Earth modeling framework](https://www.earth-syst-dynam-discuss.net/esd-2017-126/)\
 Earth Syst. Dynam. Discuss. (2018)
 
-## In Print
+## Published
 
-F. Geier, W. Barfuss, **M. Wiedermann**, J. Kurths, J.F. Donges\
+**P17** F. Geier, W. Barfuss, **M. Wiedermann**, J. Kurths, J.F. Donges\
 [The physics of governance networks: critical transitions in contagion
 dynamics on multilayer adaptive networks with application to the sustainable
-use of renewable resources](https://arxiv.org/abs/1906.08679)
-
-## Published
+use of renewable resources](https://doi.org/10.1140/epjst/e2019-900120-4)\
+The European Physical Journal Special Topics, 228, 2357–2369 (2019)
 
 **P16** I.M. Otto, **M. Wiedermann**, J.F. Donges, R. Cremades, C. Auer, W. Lucht\
 [Human agency in the Anthropocene](https://doi.org/10.1016/j.ecolecon.2019.106463)\
