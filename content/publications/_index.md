@@ -13,7 +13,7 @@ Preprints of most my publications are also found in the
 [A network-based microfoundation of Granovetter’s threshold model for social tipping](https://arxiv.org/abs/1911.04126)
 
 **M. Wiedermann**, R. Winkelmann,  J.F. Donges, C. Eder, J. Heitzig, A. Katsanidou, E.K. Smith\
-Can Antarctica tip climate policy?
+[Can Antarctica tip climate policy?](https://arxiv.org/abs/1911.10063)
 
 **M. Wiedermann**, J.F. Siegmund, J.F. Donges, J. Kurths, R.V. Donner\
 [Differential imprints of distinct ENSO flavors in global extreme precipitation

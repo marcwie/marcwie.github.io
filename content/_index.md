@@ -19,6 +19,16 @@ My interests are in complex networks, time series analysis, complex contagion an
 
 ## News
 
+**25 Nov. '19:** Can Antarctica Tip Climate Policy? -- That's what we
+investigate in the [DominoES
+project](https://www.pik-potsdam.de/research/projects/activities/dominoes). Our
+agenda-setting paper is now available on the
+[arXiv](https://arxiv.org/abs/1911.10063).
+
+**12 Nov. '19:** Our new paper refines Granovetter's threshold model as a
+numerical modeling tool for social tipping. A preprint is now
+available on the [arXiv](https://arxiv.org/abs/1911.04126).
+
 **25 Oct. '19:** Fabian Geier's (former master student with us at
 [copan](https://www.pik-potsdam.de/research/projects/activities/copan)) paper
 on [The physics of governance networks](https://doi.org/10.1140/epjst/e2019-900120-4)
@@ -34,5 +44,5 @@ sciences Potsdam to create visual arts experiments of different Tipping
 Elements in the Earth System. A video of the installations can be seen
 [here](https://vimeo.com/363540500).
 
-**19 Jun. '19:** Our new paper on *The physics of governance networks* is now
-available on the [arxiv](https://arxiv.org/abs/1906.08679).
+<!-- **19 Jun. '19:** Our new paper on *The physics of governance networks* is now
+available on the [arxiv](https://arxiv.org/abs/1906.08679). -->
