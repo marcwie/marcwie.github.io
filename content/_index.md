@@ -19,10 +19,10 @@ My interests are in complex networks, time series analysis, complex contagion an
 
 ## News
 
-**25 Nov. '19:** Can Antarctica Tip Climate Policy? -- That's what we
-investigate in the [DominoES
-project](https://www.pik-potsdam.de/research/projects/activities/dominoes). Our
-agenda-setting paper is now available on the
+**19 Dec. '19:** *Domino Effects in the Earth System -- The potential role of wanted tipping points* is the 
+title of the agenda-setting paper for our [DominoES
+project](https://www.pik-potsdam.de/research/projects/activities/dominoes). 
+A revised version of the preprint is now available on the
 [arXiv](https://arxiv.org/abs/1911.10063).
 
 **12 Nov. '19:** Our new paper refines Granovetter's threshold model as a
