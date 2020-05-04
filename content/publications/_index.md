@@ -19,12 +19,11 @@ Preprints of most my publications are also found in the
 [Differential imprints of distinct ENSO flavors in global extreme precipitation
 patterns](https://arxiv.org/abs/1702.00218) 
 
-J.F. Donges, J. Heitzig, W. Barfuss, J.A. Kassel, T. Kittel, J. J. Kolb, T. Kolster, F. Müller-Hansen, I. M. Otto, **M. Wiedermann**, K. B. Zimmerer, W. Lucht\
-[Earth system modelling with complex dynamic human societies: the copan:CORE
-World-Earth modeling framework](https://www.earth-syst-dynam-discuss.net/esd-2017-126/)\
-Earth Syst. Dynam. Discuss. (2018)
-
 ## Published
+**P18** J.F. Donges, J. Heitzig, W. Barfuss, **M. Wiedermann**, J.A. Kassel, T. Kittel, J. J. Kolb, T. Kolster, F. Müller-Hansen, I. M. Otto,  K. B. Zimmerer, W. Lucht\
+[Earth system modelling with complex dynamic human societies: the copan:CORE
+World-Earth modeling framework](https://www.earth-syst-dynam.net/11/395/2020/)\
+Earth System Dynamics, 11, 395–413 (2020)
 
 **P17** F. Geier, W. Barfuss, **M. Wiedermann**, J. Kurths, J.F. Donges\
 [The physics of governance networks: critical transitions in contagion

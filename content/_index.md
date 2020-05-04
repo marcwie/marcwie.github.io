@@ -19,6 +19,10 @@ My interests are in complex networks, time series analysis, complex contagion an
 
 ## News
 
+**04 May '20:** The description-paper of the copan:CORE World-Earth modeling
+framework is now published in [Earth System
+Dynamics](https://www.earth-syst-dynam.net/11/395/2020/). You can play around with the reference implementation available on [github](https://github.com/pik-copan/pycopancore).
+
 **19 Dec. '19:** *Domino Effects in the Earth System -- The potential role of wanted tipping points* is the 
 title of the agenda-setting paper for our [DominoES
 project](https://www.pik-potsdam.de/research/projects/activities/dominoes). 
