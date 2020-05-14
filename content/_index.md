@@ -19,6 +19,11 @@ My interests are in complex networks, time series analysis, complex contagion an
 
 ## News
 
+**14 May '20:** [Geo.X](https://www.geo-x.net/) is a research network for Geosciences consisting of ten
+partner institutions in the Berlin-Potsdam area. I am happy to announce
+that I have been appointed as a postdoctoral member of their [Young
+Academy](https://www.geo-x.net/young-academy/fellows-2019).
+
 **04 May '20:** The description-paper of the copan:CORE World-Earth modeling
 framework is now published in [Earth System
 Dynamics](https://www.earth-syst-dynam.net/11/395/2020/). You can play around with the reference implementation available on [github](https://github.com/pik-copan/pycopancore).
