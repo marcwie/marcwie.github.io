@@ -19,6 +19,11 @@ My interests are in complex networks, time series analysis, complex contagion an
 
 ## News
 
+**08 Jul. '20:** Our new paper on [A network-based microfoundation of
+Granovetter’s threshold model for social
+tipping](https://www.nature.com/articles/s41598-020-67102-6) is now published
+in Scientific Reports.
+
 **14 May '20:** [Geo.X](https://www.geo-x.net/) is a research network for Geosciences consisting of ten
 partner institutions in the Berlin-Potsdam area. I am happy to announce
 that I have been appointed as a postdoctoral member of their [Young
@@ -33,10 +38,6 @@ title of the agenda-setting paper for our [DominoES
 project](https://www.pik-potsdam.de/research/projects/activities/dominoes). 
 A revised version of the preprint is now available on the
 [arXiv](https://arxiv.org/abs/1911.10063).
-
-**12 Nov. '19:** Our new paper refines Granovetter's threshold model as a
-numerical modeling tool for social tipping. A preprint is now
-available on the [arXiv](https://arxiv.org/abs/1911.04126).
 
 **25 Oct. '19:** Fabian Geier's (former master student with us at
 [copan](https://www.pik-potsdam.de/research/projects/activities/copan)) paper

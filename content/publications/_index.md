@@ -9,9 +9,6 @@ Preprints of most my publications are also found in the
 
 ## In Review
 
-**M. Wiedermann**, E.K. Smith, J. Heitzig, J.F. Donges\
-[A network-based microfoundation of Granovetter’s threshold model for social tipping](https://arxiv.org/abs/1911.04126)
-
 **M. Wiedermann**, R. Winkelmann,  J.F. Donges, C. Eder, J. Heitzig, A. Katsanidou, E.K. Smith\
 [Domino Effects in the Earth System -- The potential role of wanted tipping points](https://arxiv.org/abs/1911.10063)
 
@@ -20,6 +17,10 @@ Preprints of most my publications are also found in the
 patterns](https://arxiv.org/abs/1702.00218) 
 
 ## Published
+**P19** **M. Wiedermann**, E.K. Smith, J. Heitzig, J.F. Donges\
+[A network-based microfoundation of Granovetter’s threshold model for social tipping](https://www.nature.com/articles/s41598-020-67102-6)
+Sci Rep 10, 11202 (2020)
+
 **P18** J.F. Donges, J. Heitzig, W. Barfuss, **M. Wiedermann**, J.A. Kassel, T. Kittel, J. J. Kolb, T. Kolster, F. Müller-Hansen, I. M. Otto,  K. B. Zimmerer, W. Lucht\
 [Earth system modelling with complex dynamic human societies: the copan:CORE
 World-Earth modeling framework](https://www.earth-syst-dynam.net/11/395/2020/)\
