@@ -19,7 +19,7 @@ patterns](https://arxiv.org/abs/1702.00218)
 ## Published
 **P19** **M. Wiedermann**, E.K. Smith, J. Heitzig, J.F. Donges\
 [A network-based microfoundation of Granovetter’s threshold model for social tipping](https://www.nature.com/articles/s41598-020-67102-6)
-Sci Rep 10, 11202 (2020)
+Scientific Reports 10, 11202 (2020)
 
 **P18** J.F. Donges, J. Heitzig, W. Barfuss, **M. Wiedermann**, J.A. Kassel, T. Kittel, J. J. Kolb, T. Kolster, F. Müller-Hansen, I. M. Otto,  K. B. Zimmerer, W. Lucht\
 [Earth system modelling with complex dynamic human societies: the copan:CORE
