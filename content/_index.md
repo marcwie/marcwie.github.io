@@ -22,7 +22,8 @@ My interests are in complex networks, time series analysis, complex contagion an
 **08 Jul. '20:** Our new paper on [A network-based microfoundation of
 Granovetter’s threshold model for social
 tipping](https://www.nature.com/articles/s41598-020-67102-6) is now published
-in Scientific Reports.
+in Scientific Reports. It is part of the collection on [Social
+physics](https://www.nature.com/collections/hfafjbjbgd) edited by Matjaž Perc.
 
 **14 May '20:** [Geo.X](https://www.geo-x.net/) is a research network for Geosciences consisting of ten
 partner institutions in the Berlin-Potsdam area. I am happy to announce
