@@ -4,6 +4,9 @@ date: 2019-02-25T10:56:44+01:00
 draft: false
 ---
 
+**May '20**: EGU General Assembly, Vienna (held online)\
+**Display:** [Social tipping as a response to anticipated sea level rise](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-19561.html)
+
 **Sep. '19**: 
 International Workshop on Complex Systems and Networks, Berlin\
 **Talk:** [A network-based microfoundation of Granovetter’s threshold model for social tipping](https://www.physics.hu-berlin.de/en/iwcsn/program)
@@ -73,7 +76,7 @@ perspective](http://meetingorganizer.copernicus.org/EGU2015/EGU2015-6513-2.pdf)\
 **Talk:** [A new typology of El Niño and La Niña phases based on evolving climate
   networks](http://www.dpg-verhandlungen.de/year/2015/conference/berlin/part/dy/session/17/contribution/7?lang=en)\
 **Talk:** [Macroscopic description of complex adaptive networks co-evolving with dynamic
-  node states](http://www.dpg-verhandlungen.de/year/2015/conference/berlin/part/soe/session/23/contribution/3?lang=en))\
+  node states](http://www.dpg-verhandlungen.de/year/2015/conference/berlin/part/soe/session/23/contribution/3?lang=en)\
 **Poster:** [Significance tests for topological characteristics of spatially embedded
   networks](http://www.dpg-verhandlungen.de/year/2015/conference/berlin/part/dy/session/59/contribution/4?lang=en)
 
@@ -82,7 +85,7 @@ perspective](http://meetingorganizer.copernicus.org/EGU2015/EGU2015-6513-2.pdf)\
   interacting climate network
 perspective](http://dames.pik-potsdam.de/program.pdf)\
 **Poster:** [Coincidences of tree-ring responses, simulated vegetation patterns and
-  climate extremes](http://dames.pik-potsdam.de/program.pdf))
+  climate extremes](http://dames.pik-potsdam.de/program.pdf)
 
 **Jun. '14**: Alpine Summer School: Dynamics, Stochastics and Predictability of
 the Climate System, Valsavaranche
@@ -94,7 +97,7 @@ the Climate System, Valsavaranche
   stocks and behavioral patterns on a social
 network](http://meetingorganizer.copernicus.org/EGU2014/EGU2014-12054.pdf)\
 **Poster:** [Ocean-atmosphere coupling from a climate network
-  perspective](http://meetingorganizer.copernicus.org/EGU2014/EGU2014-11900.pdf))\
+  perspective](http://meetingorganizer.copernicus.org/EGU2014/EGU2014-11900.pdf)
 
 **Feb. '14**: LOOPS: Closing the loop -- Towards co-evolutionary
 modeling of global society-environment interactions, Berlin
@@ -105,7 +108,7 @@ Modeling, Ohrid
 **Apr. '13**: EGU General Assembly, Vienna\
 **Poster:** [Estimating the impacts of extreme events from coincidences between tree ring
   widths, climate and simulated net primary
-productivity](http://meetingorganizer.copernicus.org/EGU2013/EGU2013-12754.pdf))
+productivity](http://meetingorganizer.copernicus.org/EGU2013/EGU2013-12754.pdf)
 
 **Oct. '12**: DAMES: Data Analysis and Modeling in Earth Sciences, Potsdam
 

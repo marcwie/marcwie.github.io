@@ -9,12 +9,17 @@ Preprints of most my publications are also found in the
 
 ## In Review
 
+**M. Wiedermann**, J.F. Siegmund, J.F. Donges, R.V. Donner\
+[Differential imprints of distinct ENSO flavors in global patterns of very low and high seasonal precipitation](https://arxiv.org/abs/1702.00218)
+
+T. Holstein, **M. Wiedermann**, J. Kurths\
+Optimization of coupling and global collapse in diffusively coupled socio-ecological resource exploitation networks
+
+R. Winkelmann, J. F. Donges, E. K. Smith, M. Milkoreit, C. Eder, J. Heitzig, A. Katsanidou, **M. Wiedermann**, N. Wunderling, T. M. Lenton\
+[Social tipping processes for sustainability: An analytical framework](https://arxiv.org/abs/2010.04488)
+
 **M. Wiedermann**, R. Winkelmann,  J.F. Donges, C. Eder, J. Heitzig, A. Katsanidou, E.K. Smith\
 [Domino Effects in the Earth System -- The potential role of wanted tipping points](https://arxiv.org/abs/1911.10063)
-
-**M. Wiedermann**, J.F. Siegmund, J.F. Donges, J. Kurths, R.V. Donner\
-[Differential imprints of distinct ENSO flavors in global extreme precipitation
-patterns](https://arxiv.org/abs/1702.00218) 
 
 ## Published
 **P19** **M. Wiedermann**, E.K. Smith, J. Heitzig, J.F. Donges\

@@ -19,6 +19,13 @@ My interests are in complex networks, time series analysis, complex contagion an
 
 ## News
 
+**14 Oct. '20:** Our newest
+[DominoES](https://www.pik-potsdam.de/research/projects/activities/dominoes)
+paper proposes an analytical framework to characterize
+potential social tipping processes for sustainability. The preprint is now
+available on the [arXiv](https://arxiv.org/abs/2010.04488) and
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3708161).
+
 **08 Jul. '20:** Our new paper on [A network-based microfoundation of
 Granovetter’s threshold model for social
 tipping](https://www.nature.com/articles/s41598-020-67102-6) is now published
@@ -40,6 +47,12 @@ project](https://www.pik-potsdam.de/research/projects/activities/dominoes).
 A revised version of the preprint is now available on the
 [arXiv](https://arxiv.org/abs/1911.10063).
 
+**3 Oct. '19:** I worked with Design students from the University of Applied
+sciences Potsdam to create visual arts experiments of different Tipping
+Elements in the Earth System. A video of the installations can be seen
+[here](https://vimeo.com/363540500).
+
+<!-- 
 **25 Oct. '19:** Fabian Geier's (former master student with us at
 [copan](https://www.pik-potsdam.de/research/projects/activities/copan)) paper
 on [The physics of governance networks](https://doi.org/10.1140/epjst/e2019-900120-4)
@@ -50,10 +63,6 @@ Otto's](https://www.pik-potsdam.de/members/banaszak/) paper on [Human agency in
 the Anthropocene](https://doi.org/10.1016/j.ecolecon.2019.106463) which is now
 published in Ecological Economics.
 
-**3 Oct. '19:** I worked with Design students from the University of Applied
-sciences Potsdam to create visual arts experiments of different Tipping
-Elements in the Earth System. A video of the installations can be seen
-[here](https://vimeo.com/363540500).
-
-<!-- **19 Jun. '19:** Our new paper on *The physics of governance networks* is now
-available on the [arxiv](https://arxiv.org/abs/1906.08679). -->
+**19 Jun. '19:** Our new paper on *The physics of governance networks* is now
+available on the [arxiv](https://arxiv.org/abs/1906.08679). 
+-->
