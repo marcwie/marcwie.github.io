@@ -11,17 +11,17 @@ draft: false
 International Workshop on Complex Systems and Networks, Berlin\
 **Talk:** [A network-based microfoundation of Granovetter’s threshold model for social tipping](https://www.physics.hu-berlin.de/en/iwcsn/program)
 
-**Jun. '19**: DominoES Workshop on "Social Tipping Elements
-relevant to stay within planetary boundaries", Cologne
+**Jun. '19**: DominoES Workshop on *Social Tipping Elements
+relevant to stay within planetary boundaries*, Cologne
 
 **Sep. '18**: Conference on Complex Systems, Thessaloniki\
 **Talk:** [Mapping and discrimination of networks in the complexity-entropy plane](http://ccs2018.web.auth.gr/mapping-and-discrimination-networks-complexity-entropy-plane)
 
-**Aug. '18**: Workshop on "Social Media, Collective Behavior, and Systemic Risk",
+**Aug. '18**: Workshop on *Social Media, Collective Behavior, and Systemic Risk*,
 Princeton
 
-**Jun. '18**: DominoES Workshop on "Social Tipping Elements Decisive for the
-Future of the Anthropocene", Cologne
+**Jun. '18**: DominoES Workshop on *Social Tipping Elements Decisive for the
+Future of the Anthropocene*, Cologne
 
 **Mar. '18**: DPG Spring Meeting, Berlin\
 **Talk:** [Mapping and discrimination of networks in the complexity-entropy plane](https://www.dpg-verhandlungen.de/year/2018/conference/berlin/part/dy/session/51/contribution/1)
