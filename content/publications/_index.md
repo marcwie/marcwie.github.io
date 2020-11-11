@@ -13,7 +13,7 @@ Preprints of most my publications are also found in the
 [Differential imprints of distinct ENSO flavors in global patterns of very low and high seasonal precipitation](https://arxiv.org/abs/1702.00218)
 
 T. Holstein, **M. Wiedermann**, J. Kurths\
-Optimization of coupling and global collapse in diffusively coupled socio-ecological resource exploitation networks
+[Optimization of coupling and global collapse in diffusively coupled socio-ecological resource exploitation networks](https://arxiv.org/abs/2010.13466)
 
 R. Winkelmann, J. F. Donges, E. K. Smith, M. Milkoreit, C. Eder, J. Heitzig, A. Katsanidou, **M. Wiedermann**, N. Wunderling, T. M. Lenton\
 [Social tipping processes for sustainability: An analytical framework](https://arxiv.org/abs/2010.04488)

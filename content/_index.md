@@ -19,6 +19,19 @@ My interests are in complex networks, time series analysis, complex contagion an
 
 ## News
 
+**05 Nov. '20:** I appeared at the [Scientists for Future
+Podcast](https://s4f-podcast.de/) and discussed about social and natural
+tipping elements as well as their potential interactions. The full episode
+(unfortunately only in German) is available on the [S4F
+website](https://s4f-podcast.de/2020/11/s4f008-domino-erdsystem/),
+[iTunes](https://podcasts.apple.com/de/podcast/folge-9-dominoeffekte-im-erdsystem/id1498309073?i=1000497379327)
+and [Spotify](https://open.spotify.com/episode/0j0GxFbkw4WeBg0xH7Izxi?si=wQaF9SmKTDWZ_uBlL1_vJQ).
+
+**27 Oct. '20:** In her thesis, Tanja Holstein has investigated the effects of
+resource diffusion on the stability of a coupled socio-ecological network
+model. A preprint of the corresponding paper is now available on the
+[arXiv](https://arxiv.org/abs/2010.13466).
+
 **14 Oct. '20:** Our newest
 [DominoES](https://www.pik-potsdam.de/research/projects/activities/dominoes)
 paper proposes an analytical framework to characterize
