@@ -4,6 +4,10 @@ date: 2019-02-25T10:56:44+01:00
 draft: false
 ---
 
+**Aug. '20**: Princeton-PIK-SRC workshop on *Network Resilience, Sustainable
+Cities, and the Global Food System* (held online)\
+**Talk:** Social tipping dynamics on complex networks
+
 **May '20**: EGU General Assembly, Vienna (held online)\
 **Display:** [Social tipping as a response to anticipated sea level rise](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-19561.html)
 
