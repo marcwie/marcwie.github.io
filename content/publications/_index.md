@@ -10,7 +10,7 @@ Preprints of most my publications are also found in the
 ## In Review
 
 P.M. Müller, J. Heitzig, J. Kurths, K. Lüdge, **M. Wiedermann**\
-[Anticipation-induced social tipping -- Can the environment be stabilised by
+[Anticipation-induced social tipping – Can the environment be stabilised by
 social dynamics?](https://arxiv.org/abs/2012.01977)
 
 **M. Wiedermann**, J.F. Siegmund, J.F. Donges, R.V. Donner\
@@ -23,7 +23,7 @@ R. Winkelmann, J. F. Donges, E. K. Smith, M. Milkoreit, C. Eder, J. Heitzig, A. 
 [Social tipping processes for sustainability: An analytical framework](https://arxiv.org/abs/2010.04488)
 
 **M. Wiedermann**, R. Winkelmann,  J.F. Donges, C. Eder, J. Heitzig, A. Katsanidou, E.K. Smith\
-[Domino Effects in the Earth System -- The potential role of wanted tipping points](https://arxiv.org/abs/1911.10063)
+[Domino Effects in the Earth System – The potential role of wanted tipping points](https://arxiv.org/abs/1911.10063)
 
 ## Published
 **P19** **M. Wiedermann**, E.K. Smith, J. Heitzig, J.F. Donges\
