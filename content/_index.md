@@ -19,6 +19,11 @@ My interests are in complex networks, time series analysis, complex contagion an
 
 ## News
 
+**07 Dec. '20:** Our former master Student Paul Müller showed that social
+tipping processes can often not be reduced to the crossing of a single
+control-parameter. A preprint of his paper is now a available on the
+[arXiv](https://arxiv.org/abs/2012.01977).
+
 **05 Nov. '20:** I appeared at the [Scientists for Future
 Podcast](https://s4f-podcast.de/) and discussed about social and natural
 tipping elements as well as their potential interactions. The full episode

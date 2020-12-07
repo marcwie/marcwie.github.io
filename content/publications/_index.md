@@ -9,6 +9,10 @@ Preprints of most my publications are also found in the
 
 ## In Review
 
+P.M. Müller, J. Heitzig, J. Kurths, K. Lüdge, **M. Wiedermann**\
+[Anticipation-induced social tipping -- Can the environment be stabilised by
+social dynamics?](https://arxiv.org/abs/2012.01977)
+
 **M. Wiedermann**, J.F. Siegmund, J.F. Donges, R.V. Donner\
 [Differential imprints of distinct ENSO flavors in global patterns of very low and high seasonal precipitation](https://arxiv.org/abs/1702.00218)
 
