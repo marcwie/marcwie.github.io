@@ -59,6 +59,7 @@ Academy](https://www.geo-x.net/young-academy/fellows-2019).
 framework is now published in [Earth System
 Dynamics](https://www.earth-syst-dynam.net/11/395/2020/). You can play around with the reference implementation available on [github](https://github.com/pik-copan/pycopancore).
 
+<!-- 
 **19 Dec. '19:** *Domino Effects in the Earth System -- The potential role of wanted tipping points* is the 
 title of the agenda-setting paper for our [DominoES
 project](https://www.pik-potsdam.de/research/projects/activities/dominoes). 
@@ -70,7 +71,7 @@ sciences Potsdam to create visual arts experiments of different Tipping
 Elements in the Earth System. A video of the installations can be seen
 [here](https://vimeo.com/363540500).
 
-<!-- 
+
 **25 Oct. '19:** Fabian Geier's (former master student with us at
 [copan](https://www.pik-potsdam.de/research/projects/activities/copan)) paper
 on [The physics of governance networks](https://doi.org/10.1140/epjst/e2019-900120-4)
