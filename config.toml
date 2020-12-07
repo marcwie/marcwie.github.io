@@ -35,3 +35,6 @@ selfintro = ""
 github = "//github.com/marcwie"
 email = "marcwie@pik-potsdam.de"
 extracssfiles = ["/css/override.css"] 
+
+[markup.goldmark.renderer]
+unsafe = true
