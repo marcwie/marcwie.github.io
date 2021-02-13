@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+<meta name="author" content="Marc Wiedermann">
+<meta name="description" content="The adaptive voter model is a conceptual and one of the most prototypical models of opinion dynamics. It was first introduced by Petter Holme and Mark Newman in 2006 and still forms the basis of many studies conducted in my current research group. It is motivated from the observation that in social networks like-minded individuals tend to cluster in groups or communities. This effect may be explained either by individuals becoming like-minded because they are connected or by individuals connecting with each other because they are like-minded.">
+
+<meta property="og:title" content="Visualization of the Adaptive Voter Model" />
+<meta property="og:description" content="The adaptive voter model is a conceptual and one of the most prototypical models of opinion dynamics. It was first introduced by Petter Holme and Mark Newman in 2006 and still forms the basis of many studies conducted in my current research group. It is motivated from the observation that in social networks like-minded individuals tend to cluster in groups or communities. This effect may be explained either by individuals becoming like-minded because they are connected or by individuals connecting with each other because they are like-minded." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/projects/adaptive/" />
+<meta property="article:published_time" content="2019-02-25T19:55:33+01:00" />
+<meta property="article:modified_time" content="2019-02-25T19:55:33+01:00" />
+
+
+<title>
+
+
+     Visualization of the Adaptive Voter Model 
+
+</title>
+<link rel="canonical" href="/projects/adaptive/">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Ubuntu+Mono:400,400i,700,700i|Raleway:500">
+
+
+
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/pygments.css">
+    <link rel="stylesheet" href="/css/main.css">
+    
+        <link rel="stylesheet" href="/css/override.css">
+    
+
+
+
+
+<link rel="shortcut icon"
+
+    href="/img/favicon.ico"
+
+>
+
+
+
+
+
+
+
+
+</head>
+
+
+<body lang="">
+
+<section class="header">
+    <div class="container">
+        <div class="content">
+            
+                
+                
+                
+                
+                
+                    
+                
+                
+                <a href="/"><img class="avatar" src="/img/profile.jpeg" srcset="/img/profile.jpeg 1x"></a>
+            
+            <a href="/"><div class="name">Marc Wiedermann</div></a>
+            
+            <nav>
+                <ul>
+                    
+                        <li class="nav-conferences"><a href="/conferences/"><span>Conferences</span></a></li>
+                    
+                        <li class="nav-projects"><a href="/projects/"><span>Projects</span></a></li>
+                    
+                        <li class="nav-publications"><a href="/publications/"><span>Publications</span></a></li>
+                    
+                        <li class="nav-teaching"><a href="/teaching/"><span>Teaching</span></a></li>
+                    
+                </ul>
+            </nav>
+        </div>
+    </div>
+</section>
+
+<section class="icons">
+    <div class="container">
+        <div class="content">
+        
+            <a href="//github.com/marcwie" target="_blank" rel="noopener"><img class="icon" src="/img/github.svg" alt="github" /></a>
+        
+
+        
+
+        
+
+	
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+            <a href="mailto:marcwie@pik-potsdam.de"><img class="icon" src="/img/email.svg" alt="email" /></a>
+        
+
+        
+
+        
+        </div>
+    </div>
+</section>
+
+<section class="main">
+    <div class="container">
+        <div class="content">
+            <div class="page-heading">
+
+    Visualization of the Adaptive Voter Model
+
+</div>
+
+            <div class="markdown">
+                <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.4.min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<p>The <em>adaptive voter model</em> is a conceptual and one of the most prototypical models of
+opinion dynamics. It was first introduced by <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.74.056108" target="_blank">Petter Holme and Mark Newman in
+2006</a>
+ and
+still forms the basis of many studies conducted in my current research group.
+It is motivated from the observation that in social networks like-minded
+individuals tend to cluster in groups or communities. This effect may be
+explained either by individuals becoming like-minded because they are connected
+or by individuals connecting with each other because they are like-minded. The
+latter is often denoted as &ldquo;homophily&rdquo;.</p>
+<p>The model is comprised of a network with N (here N=50) nodes. Initially each
+node carries one of G (here G=8) opinions. In each time step one node i is
+chosen uniformly at random and one of the two following processes happen:</p>
+<ul>
+<li>Rewiring/adaptation: With probability Φ one of the edges attached to i is moved to another
+randomly chosen node with the same opinion as node i</li>
+<li>Imitation: With probability 1-Φ node i copies the opinion of one of its
+neighbors j</li>
+</ul>
+<p>The simulation ends once there are no more links between nodes of different
+opinion. For low values of Φ the model converges into a state with one
+giant component in which all nodes hold the same opinion. At intermediate Φ
+the system undergoes a phase transition where the giant component vanishes and
+the final distribution of cluster sizes follows a power law. For large Φ
+the network quickly fragments and the size distribution of final clusters
+approximately equals the initial distribution.</p>
+<p>Use the buttons below to control the model. The buttons &ldquo;Slow&rdquo; or
+&ldquo;Fast&rdquo; both start the simulation.  In the &ldquo;Slow&rdquo; mode you should be able to
+follow exactly what is happening at each time step. Use the &ldquo;Fast&rdquo; mode to run
+the model into its final state.  Use &ldquo;Reset&rdquo; to start over. The slider on the
+right is used to adjust the rewiring probability Φ. This can only be changed when
+the simulation is stopped.</p>
+<div id="wrapper" style="display: flex;">
+<div class="btn-group left" style="flex: 0 0 43%;">
+    <button id="slow" type="button" class="btn btn-primary">Slow</button>
+    <button id="fast" type="button" class="btn btn-primary">Fast</button>
+    <button type="button" id="stopreset" class="btn btn-primary">Reset</button>
+</div>
+<div class="right" style="flex: 1">
+    Rewiring probability &Phi;:
+    <input class="rewiringslider" autocomplete="off" type="range" id="rewiring" value="0" min="0" max="1" step="0.1" oninput="rewiringvalue.value = rewiring.value" style="vertical-align:middle;">
+    <output id="rewiringvalue">0</output>
+</div>
+</div>
+<div id="svg"><div>
+<script src="/js/adaptivevoter.js"></script>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+</body>
+</html>
+
