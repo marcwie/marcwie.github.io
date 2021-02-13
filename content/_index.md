@@ -19,6 +19,13 @@ My interests are in complex networks, time series analysis, complex contagion an
 
 ## News
 
+**12 Feb. '21:** Our recent
+[paper](https://www.frontiersin.org/articles/10.3389/fclim.2021.618548/full)
+provides a global overview on precipitation responses to different types of the
+El Niño–Southern Oscillation. It is part of the Specialty Section on [New
+techniques for improving climate models, predictions and
+projections](https://www.frontiersin.org/research-topics/14637/new-techniques-for-improving-climate-models-predictions-and-projections#articles) in [Frontiers in Climate](https://www.frontiersin.org/journals/climate#).
+
 **07 Dec. '20:** Our former master Student Paul Müller showed that social
 tipping processes can often not be reduced to the crossing of a single
 control-parameter. A preprint of his paper is now a available on the
@@ -50,16 +57,17 @@ tipping](https://www.nature.com/articles/s41598-020-67102-6) is now published
 in Scientific Reports. It is part of the collection on [Social
 physics](https://www.nature.com/collections/hfafjbjbgd) edited by Matjaž Perc.
 
+<!-- 
 **14 May '20:** [Geo.X](https://www.geo-x.net/) is a research network for Geosciences consisting of ten
 partner institutions in the Berlin-Potsdam area. I am happy to announce
 that I have been appointed as a postdoctoral member of their [Young
 Academy](https://www.geo-x.net/young-academy/fellows-2019).
 
+
 **04 May '20:** The description-paper of the copan:CORE World-Earth modeling
 framework is now published in [Earth System
 Dynamics](https://www.earth-syst-dynam.net/11/395/2020/). You can play around with the reference implementation available on [github](https://github.com/pik-copan/pycopancore).
 
-<!-- 
 **19 Dec. '19:** *Domino Effects in the Earth System -- The potential role of wanted tipping points* is the 
 title of the agenda-setting paper for our [DominoES
 project](https://www.pik-potsdam.de/research/projects/activities/dominoes). 

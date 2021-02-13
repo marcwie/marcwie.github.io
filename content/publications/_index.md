@@ -13,9 +13,6 @@ P.M. Müller, J. Heitzig, J. Kurths, K. Lüdge, **M. Wiedermann**\
 [Anticipation-induced social tipping – Can the environment be stabilised by
 social dynamics?](https://arxiv.org/abs/2012.01977)
 
-**M. Wiedermann**, J.F. Siegmund, J.F. Donges, R.V. Donner\
-[Differential imprints of distinct ENSO flavors in global patterns of very low and high seasonal precipitation](https://arxiv.org/abs/1702.00218)
-
 T. Holstein, **M. Wiedermann**, J. Kurths\
 [Optimization of coupling and global collapse in diffusively coupled socio-ecological resource exploitation networks](https://arxiv.org/abs/2010.13466)
 
@@ -26,8 +23,15 @@ R. Winkelmann, J. F. Donges, E. K. Smith, M. Milkoreit, C. Eder, J. Heitzig, A. 
 [Domino Effects in the Earth System – The potential role of wanted tipping points](https://arxiv.org/abs/1911.10063)
 
 ## Published
+**P20** **M. Wiedermann**, J.F. Siegmund, J.F. Donges, R.V. Donner\
+[Differential imprints of distinct ENSO flavors in global patterns of very low and high seasonal precipitation](https://www.frontiersin.org/articles/10.3389/fclim.2021.618548/full)\
+Frontiers in Climate 3, 618548 (2021)\
+Part of the Specialty Section [New techniques for improving climate models,
+predictions and
+projections](https://www.frontiersin.org/research-topics/14637/new-techniques-for-improving-climate-models-predictions-and-projections#articles)
+
 **P19** **M. Wiedermann**, E.K. Smith, J. Heitzig, J.F. Donges\
-[A network-based microfoundation of Granovetter’s threshold model for social tipping](https://www.nature.com/articles/s41598-020-67102-6)
+[A network-based microfoundation of Granovetter’s threshold model for social tipping](https://www.nature.com/articles/s41598-020-67102-6)\
 Scientific Reports 10, 11202 (2020)\
 Part of the Guest Edited Collection on [Social
 Physics](https://www.nature.com/collections/hfafjbjbgd)
