@@ -9,6 +9,10 @@ Preprints of most my publications are also found in the
 
 ## In Review
 
+F. Schunck, **M. Wiedermann**, J. Heizig, J. F. Donges\
+[A dynamic network model of societal complexity and resilience inspired by
+Tainter\'s theory of collapse](https://arxiv.org/abs/2102.06698)
+
 P.M. Müller, J. Heitzig, J. Kurths, K. Lüdge, **M. Wiedermann**\
 [Anticipation-induced social tipping – Can the environment be stabilised by
 social dynamics?](https://arxiv.org/abs/2012.01977)
@@ -52,7 +56,7 @@ The European Physical Journal Special Topics, 228, 2357–2369 (2019)
 Ecological Economics, 167, 106463 (2019)
 
 **P15** R.V. Donner, G. Balasis, V. Stolbova, M. Georgiou, **M. Wiedermann**, J. Kurths\
-[Recurrence based quantification of dynamical complexity in the Earth's
+[Recurrence based quantification of dynamical complexity in the Earth\'s
 magnetosphere at geospace storm timescales](https://dx.doi.org/10.1029/2018ja025318)\
 Journal of Geophysical Research: Space Physics, 124, 90-108 (2019)
 
