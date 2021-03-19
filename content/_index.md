@@ -19,6 +19,15 @@ My interests are in complex networks, time series analysis, complex contagion an
 
 ## News
 
+**18 Mar. '21:** I had the fortune to co-supervise the final thesis of Jakob
+Lochner, in which he estimated dose-responses functions for characzerizing
+spreading processes in the [Copenhagen Networks
+Study](https://www.nature.com/articles/s41597-019-0325-x) data set. A preprint
+of the corresponding paper is now available on the
+[arXiv](https://arxiv.org/abs/2103.09496).
+
+**17 Mar. '21:** Our new paper concerning [Optimization of coupling and global collapse in diffusively coupled socio-ecological resource exploitation networks](https://iopscience.iop.org/article/10.1088/1367-2630/abe0db) lead by our former Master student Tanja Holstein is now published in [New Journal of Physics](https://iopscience.iop.org/journal/1367-2630).
+
 **12 Feb. '21:** Our recent
 [paper](https://www.frontiersin.org/articles/10.3389/fclim.2021.618548/full)
 provides a global overview on precipitation responses to different types of the
@@ -39,11 +48,7 @@ website](https://s4f-podcast.de/2020/11/s4f008-domino-erdsystem/),
 [iTunes](https://podcasts.apple.com/de/podcast/folge-9-dominoeffekte-im-erdsystem/id1498309073?i=1000497379327)
 and [Spotify](https://open.spotify.com/episode/0j0GxFbkw4WeBg0xH7Izxi?si=wQaF9SmKTDWZ_uBlL1_vJQ).
 
-**27 Oct. '20:** In her thesis, Tanja Holstein has investigated the effects of
-resource diffusion on the stability of a coupled socio-ecological network
-model. A preprint of the corresponding paper is now available on the
-[arXiv](https://arxiv.org/abs/2010.13466).
-
+<!-- 
 **14 Oct. '20:** Our newest
 [DominoES](https://www.pik-potsdam.de/research/projects/activities/dominoes)
 paper proposes an analytical framework to characterize
@@ -57,7 +62,7 @@ tipping](https://www.nature.com/articles/s41598-020-67102-6) is now published
 in Scientific Reports. It is part of the collection on [Social
 physics](https://www.nature.com/collections/hfafjbjbgd) edited by Matjaž Perc.
 
-<!-- 
+
 **14 May '20:** [Geo.X](https://www.geo-x.net/) is a research network for Geosciences consisting of ten
 partner institutions in the Berlin-Potsdam area. I am happy to announce
 that I have been appointed as a postdoctoral member of their [Young

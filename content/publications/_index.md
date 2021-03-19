@@ -9,6 +9,11 @@ Preprints of most my publications are also found in the
 
 ## In Review
 
+J. F. Donges, J. Lochner, J. Heitzig, N. Kitzmann, S. Lehmann, **M. Wiedermann**, J. Vollmer\
+[Dose-response function approach for detecting spreading processes in temporal
+network data: Exploring social contagion in the Copenhagen Networks
+Study](https://arxiv.org/abs/2103.09496)
+
 F. Schunck, **M. Wiedermann**, J. Heizig, J. F. Donges\
 [A dynamic network model of societal complexity and resilience inspired by
 Tainter\'s theory of collapse](https://arxiv.org/abs/2102.06698)
@@ -17,9 +22,6 @@ P.M. Müller, J. Heitzig, J. Kurths, K. Lüdge, **M. Wiedermann**\
 [Anticipation-induced social tipping – Can the environment be stabilised by
 social dynamics?](https://arxiv.org/abs/2012.01977)
 
-T. Holstein, **M. Wiedermann**, J. Kurths\
-[Optimization of coupling and global collapse in diffusively coupled socio-ecological resource exploitation networks](https://arxiv.org/abs/2010.13466)
-
 R. Winkelmann, J. F. Donges, E. K. Smith, M. Milkoreit, C. Eder, J. Heitzig, A. Katsanidou, **M. Wiedermann**, N. Wunderling, T. M. Lenton\
 [Social tipping processes for sustainability: An analytical framework](https://arxiv.org/abs/2010.04488)
 
@@ -27,6 +29,10 @@ R. Winkelmann, J. F. Donges, E. K. Smith, M. Milkoreit, C. Eder, J. Heitzig, A. 
 [Domino Effects in the Earth System – The potential role of wanted tipping points](https://arxiv.org/abs/1911.10063)
 
 ## Published
+**P21** T. Holstein, **M. Wiedermann**, J. Kurths\
+[Optimization of coupling and global collapse in diffusively coupled socio-ecological resource exploitation networks](https://iopscience.iop.org/article/10.1088/1367-2630/abe0db)\
+New Journal of Physics 23, 033027 (2021)
+
 **P20** **M. Wiedermann**, J.F. Siegmund, J.F. Donges, R.V. Donner\
 [Differential imprints of distinct ENSO flavors in global patterns of very low and high seasonal precipitation](https://www.frontiersin.org/articles/10.3389/fclim.2021.618548/full)\
 Frontiers in Climate 3, 618548 (2021)\
