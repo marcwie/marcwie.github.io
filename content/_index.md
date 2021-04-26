@@ -4,18 +4,20 @@ date: 2019-02-25T11:33:03+01:00
 draft: false
 ---
 
-Hi, I'm Marc. I am a postdoc in the [Complexity
-Science](https://www.pik-potsdam.de/research/complexity-science) department at
-the Potsdam Institute for Climate Impact Research. 
+Hi, I'm Marc, 
 
-My work is part of the Leibniz Project
-[DominoES](https://www.pik-potsdam.de/research/projects/activities/dominoes)
-and the FutureLab on Game Theory & Networks of Interacting Agents
-[Gane](https://www.pik-potsdam.de/research/futurelabs/gane). I am also a member
-of the [copan
-collaboration](https://www.pik-potsdam.de/research/projects/activities/copan).
+... a post-doctoral researcher whose main interest lies in
+studying how human behavior, individual and collective, affects
+environmental change and vice versa. 
 
-My interests are in complex networks, time series analysis, complex contagion and social tipping.
+... a PhD in theoretical physics with a
+background in complex system's studies, time series analysis, complex network
+theory and data science.
+
+... an alumni of the Humboldt-University of Berlin, The Chinese University of
+Hong Kong and the [Complexity Science
+Department](https://www.pik-potsdam.de/research/complexity-science) of the
+Potsdam Institute for Climate Impact Research.
 
 ## News
 
@@ -97,4 +99,27 @@ published in Ecological Economics.
 
 **19 Jun. '19:** Our new paper on *The physics of governance networks* is now
 available on the [arxiv](https://arxiv.org/abs/1906.08679). 
+
+My work is part of the Leibniz Project
+[DominoES](https://www.pik-potsdam.de/research/projects/activities/dominoes)
+and the FutureLab on Game Theory & Networks of Interacting Agents
+[Gane](https://www.pik-potsdam.de/research/futurelabs/gane). I am also a member
+of the [copan
+collaboration](https://www.pik-potsdam.de/research/projects/activities/copan).
+
+M
+Hi, I'm Marc. am a postdoc in the [Complexity
+Science](https://www.pik-potsdam.de/research/complexity-science) department at
+the Potsdam Institute for Climate Impact Research. 
+
+My work is part of the Leibniz Project
+[DominoES](https://www.pik-potsdam.de/research/projects/activities/dominoes)
+and the FutureLab on Game Theory & Networks of Interacting Agents
+[Gane](https://www.pik-potsdam.de/research/futurelabs/gane). I am also a member
+of the [copan
+collaboration](https://www.pik-potsdam.de/research/projects/activities/copan).
+
+My interests are in complex networks, time series analysis, complex contagion and social tipping.
+
+
 -->

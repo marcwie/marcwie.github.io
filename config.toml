@@ -34,8 +34,9 @@ avatar = "img/profile.jpeg"
 author = "Marc Wiedermann"
 selfintro = ""
 github = "//github.com/marcwie"
-email = "marcwie@pik-potsdam.de"
+email = "marcw@physik.hu-berlin.de"
 extracssfiles = ["/css/override.css"] 
+linkedin = "//linkedin.com/in/marc-wiedermann-995958210"
 
 [markup.goldmark.renderer]
 unsafe = true
