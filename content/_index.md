@@ -21,26 +21,32 @@ Potsdam Institute for Climate Impact Research.
 
 ## News
 
+**07 Dec. '20:** Our former master student Paul Müller studied a
+co-evolutionary socio-ecological model and showed that anticipation of future
+environmental damages can lead to metastable states of desired collective
+behaviour in a social system. The final version of the paper is now published 
+in [The European Physical Journal Special Topics.](https://link.springer.com/article/10.1140/epjs/s11734-021-00011-5#citeas)
+
 **18 Mar. '21:** I had the fortune to co-supervise the final thesis of Jakob
 Lochner, in which he estimated dose-responses functions for characzerizing
 spreading processes in the [Copenhagen Networks
 Study](https://www.nature.com/articles/s41597-019-0325-x) data set. A preprint
 of the corresponding paper is now available on the
-[arXiv](https://arxiv.org/abs/2103.09496).
+[arXiv.](https://arxiv.org/abs/2103.09496)
 
-**17 Mar. '21:** Our new paper concerning [Optimization of coupling and global collapse in diffusively coupled socio-ecological resource exploitation networks](https://iopscience.iop.org/article/10.1088/1367-2630/abe0db) lead by our former Master student Tanja Holstein is now published in [New Journal of Physics](https://iopscience.iop.org/journal/1367-2630).
+**17 Mar. '21:** Our new paper concerning [Optimization of coupling and global
+collapse in diffusively coupled socio-ecological resource exploitation
+networks](https://iopscience.iop.org/article/10.1088/1367-2630/abe0db) lead by
+our former Master student Tanja Holstein is now published in [New Journal of
+Physics.](https://iopscience.iop.org/journal/1367-2630)
 
 **12 Feb. '21:** Our recent
 [paper](https://www.frontiersin.org/articles/10.3389/fclim.2021.618548/full)
 provides a global overview on precipitation responses to different types of the
 El Niño–Southern Oscillation. It is part of the Specialty Section on [New
 techniques for improving climate models, predictions and
-projections](https://www.frontiersin.org/research-topics/14637/new-techniques-for-improving-climate-models-predictions-and-projections#articles) in [Frontiers in Climate](https://www.frontiersin.org/journals/climate#).
-
-**07 Dec. '20:** Our former master Student Paul Müller showed that social
-tipping processes can often not be reduced to the crossing of a single
-control-parameter. A preprint of his paper is now a available on the
-[arXiv](https://arxiv.org/abs/2012.01977).
+projections](https://www.frontiersin.org/research-topics/14637/new-techniques-for-improving-climate-models-predictions-and-projections#articles)
+in [Frontiers in Climate.](https://www.frontiersin.org/journals/climate#)
 
 **05 Nov. '20:** I appeared at the [Scientists for Future
 Podcast](https://s4f-podcast.de/) and discussed about social and natural
@@ -48,7 +54,7 @@ tipping elements as well as their potential interactions. The full episode
 (unfortunately only in German) is available on the [S4F
 website](https://s4f-podcast.de/2020/11/s4f008-domino-erdsystem/),
 [iTunes](https://podcasts.apple.com/de/podcast/folge-9-dominoeffekte-im-erdsystem/id1498309073?i=1000497379327)
-and [Spotify](https://open.spotify.com/episode/0j0GxFbkw4WeBg0xH7Izxi?si=wQaF9SmKTDWZ_uBlL1_vJQ).
+and [Spotify.](https://open.spotify.com/episode/0j0GxFbkw4WeBg0xH7Izxi?si=wQaF9SmKTDWZ_uBlL1_vJQ)
 
 <!-- 
 **14 Oct. '20:** Our newest
