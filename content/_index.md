@@ -13,7 +13,7 @@ Hong Kong and the Complexity Science Department of the Potsdam Institute for Cli
 
 ## News
 
-**07 Dec. '20:** Our new paper in [The European Physical Journal Special Topics](https://link.springer.com/article/10.1140/epjs/s11734-021-00011-5#citeas) shows that anticipation of future
+**26 Apr. '21:** Our new paper in [The European Physical Journal Special Topics](https://link.springer.com/article/10.1140/epjs/s11734-021-00011-5#citeas) shows that anticipation of future
 environmental damages can lead to metastable states of collective
 behaviour. It is now published
 in
