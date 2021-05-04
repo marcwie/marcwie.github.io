@@ -54,7 +54,7 @@ github = "//github.com/marcwie"
 email = "marcw@physik.hu-berlin.de"
 extracssfiles = ["/css/override.css"]
 linkedin = "//linkedin.com/in/marc-wiedermann-995958210"
-
+twitter = "//twitter.com/m_wiedermann"
 
 [markup.goldmark.renderer]
 unsafe = true
