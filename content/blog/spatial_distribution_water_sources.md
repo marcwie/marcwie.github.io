@@ -2,7 +2,7 @@
 title: "Spatial infographics in python using cartopy and shapely #TidyTuesday"
 slug: "spatial-infographics-cartopy-shapely"
 date: 2021-05-04T20:17:58+02:00
-draft: true
+draft: false
 ---
 Ever since matplotlib's `basemap` has been deprecated I wanted to take a closer look at the `cartopy` project so that I can keep using python for displaying data on maps.
 Fortunately, this week's [#tidytuesday](https://github.com/rfordatascience/tidytuesday) project concerns spatially explicit data of African water sources provided by [Water Point Data Exchange.](https://data.waterpointdata.org/dataset/Water-Point-Data-Exchange-WPDx-Basic-/jfkt-jmqa)
