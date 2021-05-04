@@ -1,7 +1,10 @@
 var url = "https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json"
 
+// 1. Load the data from external source
 d3.json(url, function(data) {
 
+    // 2. Append svg-object for the bar chart to a div in your webpage
+    // (here we use a div with id=container)
     var width = 700;
     var height = 500;
     var margin = {left: 90, top: 70, bottom: 50, right: 20};
@@ -12,7 +15,7 @@ d3.json(url, function(data) {
                   .attr("width", width)
                   .attr("height", height)
 
-    // Scales and axes
+    // 3. Define scales to translate domains of the data to the range of the svg
     var xMin = d3.min(data["data"], (d) => d[0]);
     var xMax = d3.max(data["data"], (d) => d[0]);
 
@@ -27,6 +30,7 @@ d3.json(url, function(data) {
                    .domain([0, yMax])
                    .range([height-margin.bottom, margin.top])
 
+    // 4. Draw and transform/translate horizontal and vertical axes
     var xAxis = d3.axisBottom().scale(xScale)
     var yAxis = d3.axisLeft().scale(yScale)
 
@@ -40,6 +44,7 @@ d3.json(url, function(data) {
        .attr("id", "y-axis")
        .call(yAxis)
 
+    // 5. Draw individual bars and define mouse events for the tooltip
     var barwidth = (xScale.range()[1] - xScale.range()[0]) / data["data"].length
 
     const tooltip = d3.select("body")
@@ -47,7 +52,6 @@ d3.json(url, function(data) {
                       .attr("id", "tooltip")
                       .style("visibility", "hidden")
 
-    // Draw the individual bars
     svg.selectAll("rect")
        .data(data["data"])
        .enter()
@@ -60,7 +64,6 @@ d3.json(url, function(data) {
        .attr("data-date", (d) => d[0])
        .attr("data-gdp", (d) => d[1])
        .on("mouseover", function(d){
-           console.log(event.pageY)
            tooltip.style("visibility", "visible")
                   .style("left", event.pageX+10+"px")
                   .style("top", event.pageY-80+"px")
@@ -74,7 +77,7 @@ d3.json(url, function(data) {
            tooltip.style("visibility", "hidden")
        })
 
-     // Add title and axes label
+     // 6. Finalize chart by adding title and axes labels
      svg.append("text")
         .attr("x", margin.left + (width - margin.left - margin.right) / 2)
         .attr("y", height - margin.bottom / 5)
