@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Spatial infographics in python using cartopy and shapely #TidyTuesday</title>
+      <link>https://marcwie.github.io/blog/spatial-infographics-cartopy-shapely/</link>
+      <pubDate>Tue, 04 May 2021 20:17:58 +0200</pubDate>
+      
+      <guid>https://marcwie.github.io/blog/spatial-infographics-cartopy-shapely/</guid>
+      <description>Ever since matplotlib&amp;rsquo;s basemap has been deprecated I wanted to take a closer look at the cartopy project so that I can keep using python for displaying data on maps. Fortunately, this week&amp;rsquo;s #tidytuesday project concerns spatially explicit data of African water sources provided by Water Point Data Exchange. The data is provided as a csv table which, among others, contains the longitudinal and latitudinal position of a water source as well as its type (e.</description>
+    </item>
+    
+    <item>
       <title>Include code from external file in a hugo blog post</title>
       <link>https://marcwie.github.io/blog/external-text-hugo-blog-post/</link>
       <pubDate>Tue, 04 May 2021 14:46:12 +0200</pubDate>
