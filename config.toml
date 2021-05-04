@@ -1,16 +1,26 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "Marc Wiedermann"
-theme = "cocoa"
-author = ""
-publishDir = "docs"
+baseurl             = "https://marcwie.github.io/"
+builddrafts         = false
+canonifyurls        = true
+contentdir          = "content"
+languageCode        = "en-us"
+layoutdir           = "layouts"
+publishdir          = "docs"
+theme               = "cocoa"
+author              = "Marc Wiedermann"
+title               = "Marc Wiedermann"
+#pygmentsuseclasses  = true
+#disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
+pluralizelisttitles = false
+#googleAnalytics     = "UA-123-45"
+
+[permalinks]
+blog  = "blog/:slug/"
 
 [[menu.main]]
 name                   = "Blog"
-weight                 = -110
+weight                 = -120
 identifier             = "blog"
 url                    = "/blog/"
-
 
 [[menu.main]]
 name                   = "Publications"
@@ -44,6 +54,7 @@ github = "//github.com/marcwie"
 email = "marcw@physik.hu-berlin.de"
 extracssfiles = ["/css/override.css"]
 linkedin = "//linkedin.com/in/marc-wiedermann-995958210"
+
 
 [markup.goldmark.renderer]
 unsafe = true
