@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Marc Wiedermann</title>
+    <link>https://marcwie.github.io/blog/</link>
+    <description>Recent content in Blog on Marc Wiedermann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 May 2021 20:25:40 +0200</lastBuildDate>
+    
+	<atom:link href="https://marcwie.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Create a responsive Bar Chart with d3.js</title>
+      <link>https://marcwie.github.io/blog/responsive-bar-chart-d3/</link>
+      <pubDate>Mon, 03 May 2021 20:25:40 +0200</pubDate>
+      
+      <guid>https://marcwie.github.io/blog/responsive-bar-chart-d3/</guid>
+      <description>For a while now, I&amp;rsquo;ve been wanting to dust off my skills in creating responsive graphics with d3.js. In the past I&amp;rsquo;ve used it to create some visualizations of complex networks or simple interactive dashboards for my former clients.
+I went back to freecodecamp&amp;rsquo;s course on data visualization which provides a highly recommended introduction to d3 for all those with some experience in web development, i.e., html, css and javascript. Below is my implementation of their first out of five Coding Challenges that visualizes a time series of quarterly US GDP with a bar chart.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on Marc Wiedermann</title>
-    <link>/teaching/</link>
+    <link>https://marcwie.github.io/teaching/</link>
     <description>Recent content in Teaching on Marc Wiedermann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 22:42:27 +0100</lastBuildDate>
     
-	<atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marcwie.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Marc Wiedermann</title>
-    <link>/publications/</link>
+    <link>https://marcwie.github.io/publications/</link>
     <description>Recent content in Publications on Marc Wiedermann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 19:10:15 +0100</lastBuildDate>
     
-	<atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marcwie.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

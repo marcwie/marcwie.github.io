@@ -1,0 +1,32 @@
+* {
+    font-family: sans-serif;
+}
+
+.bar{
+    fill: #16a085;
+}
+
+.bar:hover{
+    fill: white;
+}
+
+#tooltip {
+    background-color: #ecf0f1;
+    visibility: hidden;
+    position: absolute;
+    opacity: 0.8;
+    padding: 10px;
+    vertical-align: middle;
+    border-radius: 5px;
+    text-align: center;
+    width: 180px;
+}
+
+#title {
+    text-anchor: middle;
+    font-size: 22px;
+}
+
+.label {
+    text-anchor: middle;
+}

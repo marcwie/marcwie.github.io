@@ -2,31 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marc Wiedermann</title>
-    <link>/</link>
+    <link>https://marcwie.github.io/</link>
     <description>Recent content on Marc Wiedermann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Feb 2019 11:33:03 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marcwie.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Create a responsive Bar Chart with d3.js</title>
+      <link>https://marcwie.github.io/blog/responsive-bar-chart-d3/</link>
+      <pubDate>Mon, 03 May 2021 20:25:40 +0200</pubDate>
+      
+      <guid>https://marcwie.github.io/blog/responsive-bar-chart-d3/</guid>
+      <description>For a while now, I&amp;rsquo;ve been wanting to dust off my skills in creating responsive graphics with d3.js. In the past I&amp;rsquo;ve used it to create some visualizations of complex networks or simple interactive dashboards for my former clients.
+I went back to freecodecamp&amp;rsquo;s course on data visualization which provides a highly recommended introduction to d3 for all those with some experience in web development, i.e., html, css and javascript. Below is my implementation of their first out of five Coding Challenges that visualizes a time series of quarterly US GDP with a bar chart.</description>
+    </item>
+    
+    <item>
       <title>My Collaboration Network</title>
-      <link>/projects/collaboration/</link>
+      <link>https://marcwie.github.io/projects/collaboration/</link>
       <pubDate>Mon, 25 Feb 2019 19:55:33 +0100</pubDate>
       
-      <guid>/projects/collaboration/</guid>
+      <guid>https://marcwie.github.io/projects/collaboration/</guid>
       <description>This is a visualization of my collaboration network. It is generated from the entries in my publication list . I have removed myself, i.e., the ego-node, as otherwise all co-authors would be connected to me and the network would become more star-like. Hover over the nodes to see which authors appear on the same papers. The width of the edges gives the frequency of collaborations between pairs of co-authors.
    </description>
     </item>
     
     <item>
       <title>Visualization of the Adaptive Voter Model</title>
-      <link>/projects/adaptive/</link>
+      <link>https://marcwie.github.io/projects/adaptive/</link>
       <pubDate>Mon, 25 Feb 2019 19:55:33 +0100</pubDate>
       
-      <guid>/projects/adaptive/</guid>
+      <guid>https://marcwie.github.io/projects/adaptive/</guid>
       <description>The adaptive voter model is a conceptual and one of the most prototypical models of opinion dynamics. It was first introduced by Petter Holme and Mark Newman in 2006 and still forms the basis of many studies conducted in my current research group. It is motivated from the observation that in social networks like-minded individuals tend to cluster in groups or communities. This effect may be explained either by individuals becoming like-minded because they are connected or by individuals connecting with each other because they are like-minded.</description>
     </item>
     
