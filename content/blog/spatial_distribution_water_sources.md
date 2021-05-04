@@ -128,8 +128,8 @@ for i, (color, source) in enumerate(zip(COLORS, sources_count.index.to_list())):
 plt.subplots_adjust(wspace=0.0, hspace=0.2, left=0.02, right=1, top=0.85, bottom=0.12)
 fig.patch.set_facecolor('#ecf0f1')
 plt.suptitle("Distribution of Water Sources in Africa", fontsize=16)
-fig.text(0.99, 0.015, "Data provided by Water Point Data Exchange via https://github.com/rfordatascience/tidytuesday", ha="right")
-plt.savefig("water_sources.jpg")
+fig.text(0.99, 0.015, "@m_wiedermann | Data provided by Water Point Data Exchange via https://github.com/rfordatascience/tidytuesday", ha="right", size=8)
+plt.savefig("water_sources.jpg", dpi=500)
 plt.show()
 ```
 That's it. For reproducing the figure you can either copy all the above snippets into a single file or `jupyter` notebook and run the code on your local machine. Alternatively you can get the entire code in  a single `jupyter` notebook from my [github.](https://github.com/marcwie/tidytuesday-challenges/blob/master/TidyTuesday%20Week%2019%202021%20-%20Water%20Sources.ipynb)
