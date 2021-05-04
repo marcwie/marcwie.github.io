@@ -4,49 +4,26 @@ date: 2019-02-25T11:33:03+01:00
 draft: false
 ---
 
-Hi, I'm Marc, 
-
-... a post-doctoral researcher whose main interest lies in
+Hi, I'm Marc, a complex systems scientist interested in
 studying how human behavior, individual and collective, affects
-environmental change and vice versa. 
-
-... a PhD in theoretical physics with a
+environmental change and vice versa. I hold a PhD in theoretical physics with a
 background in complex system's studies, time series analysis, complex network
-theory and data science.
-
-... an alumni of the Humboldt-University of Berlin, The Chinese University of
-Hong Kong and the [Complexity Science
-Department](https://www.pik-potsdam.de/research/complexity-science) of the
-Potsdam Institute for Climate Impact Research.
+theory and data science. I'm an alumni of the Humboldt-University of Berlin, The Chinese University of
+Hong Kong and the Complexity Science Department of the Potsdam Institute for Climate Impact Research.
 
 ## News
 
-**07 Dec. '20:** Our former master student Paul Müller studied a
-co-evolutionary socio-ecological model and showed that anticipation of future
-environmental damages can lead to metastable states of desired collective
-behaviour in a social system. The final version of the paper is now published 
-in [The European Physical Journal Special Topics.](https://link.springer.com/article/10.1140/epjs/s11734-021-00011-5#citeas)
+**07 Dec. '20:** Our new paper in [The European Physical Journal Special Topics](https://link.springer.com/article/10.1140/epjs/s11734-021-00011-5#citeas) shows that anticipation of future
+environmental damages can lead to metastable states of collective
+behaviour. It is now published
+in
 
-**18 Mar. '21:** I had the fortune to co-supervise the final thesis of Jakob
-Lochner, in which he estimated dose-responses functions for characzerizing
-spreading processes in the [Copenhagen Networks
-Study](https://www.nature.com/articles/s41597-019-0325-x) data set. A preprint
-of the corresponding paper is now available on the
-[arXiv.](https://arxiv.org/abs/2103.09496)
+**18 Mar. '21:** A new preprint is out on [arXiv](https://arxiv.org/abs/2103.09496) in which we investigate the potential of dose-responses functions for characterizing
+spreading processes in the [Copenhagen Networks Study](https://www.nature.com/articles/s41597-019-0325-x) data set.
 
-**17 Mar. '21:** Our new paper concerning [Optimization of coupling and global
-collapse in diffusively coupled socio-ecological resource exploitation
-networks](https://iopscience.iop.org/article/10.1088/1367-2630/abe0db) lead by
-our former Master student Tanja Holstein is now published in [New Journal of
-Physics.](https://iopscience.iop.org/journal/1367-2630)
-
-**12 Feb. '21:** Our recent
-[paper](https://www.frontiersin.org/articles/10.3389/fclim.2021.618548/full)
-provides a global overview on precipitation responses to different types of the
-El Niño–Southern Oscillation. It is part of the Specialty Section on [New
-techniques for improving climate models, predictions and
-projections](https://www.frontiersin.org/research-topics/14637/new-techniques-for-improving-climate-models-predictions-and-projections#articles)
-in [Frontiers in Climate.](https://www.frontiersin.org/journals/climate#)
+**12 Feb. '21:** Our recent [paper in Frontiers in Climate](https://www.frontiersin.org/articles/10.3389/fclim.2021.618548/full)
+provides a spatially explicit and comprehensive global overview on precipitation responses to different types of the
+El Niño–Southern Oscillation.
 
 **05 Nov. '20:** I appeared at the [Scientists for Future
 Podcast](https://s4f-podcast.de/) and discussed about social and natural
@@ -56,7 +33,13 @@ website](https://s4f-podcast.de/2020/11/s4f008-domino-erdsystem/),
 [iTunes](https://podcasts.apple.com/de/podcast/folge-9-dominoeffekte-im-erdsystem/id1498309073?i=1000497379327)
 and [Spotify.](https://open.spotify.com/episode/0j0GxFbkw4WeBg0xH7Izxi?si=wQaF9SmKTDWZ_uBlL1_vJQ)
 
-<!-- 
+<!--
+**17 Mar. '21:** Our new paper concerning [Optimization of coupling and global
+collapse in diffusively coupled socio-ecological resource exploitation
+networks](https://iopscience.iop.org/article/10.1088/1367-2630/abe0db) lead by
+our former Master student Tanja Holstein is now published in [New Journal of
+Physics.](https://iopscience.iop.org/journal/1367-2630)
+
 **14 Oct. '20:** Our newest
 [DominoES](https://www.pik-potsdam.de/research/projects/activities/dominoes)
 paper proposes an analytical framework to characterize
@@ -81,9 +64,9 @@ Academy](https://www.geo-x.net/young-academy/fellows-2019).
 framework is now published in [Earth System
 Dynamics](https://www.earth-syst-dynam.net/11/395/2020/). You can play around with the reference implementation available on [github](https://github.com/pik-copan/pycopancore).
 
-**19 Dec. '19:** *Domino Effects in the Earth System -- The potential role of wanted tipping points* is the 
+**19 Dec. '19:** *Domino Effects in the Earth System -- The potential role of wanted tipping points* is the
 title of the agenda-setting paper for our [DominoES
-project](https://www.pik-potsdam.de/research/projects/activities/dominoes). 
+project](https://www.pik-potsdam.de/research/projects/activities/dominoes).
 A revised version of the preprint is now available on the
 [arXiv](https://arxiv.org/abs/1911.10063).
 
@@ -104,7 +87,7 @@ the Anthropocene](https://doi.org/10.1016/j.ecolecon.2019.106463) which is now
 published in Ecological Economics.
 
 **19 Jun. '19:** Our new paper on *The physics of governance networks* is now
-available on the [arxiv](https://arxiv.org/abs/1906.08679). 
+available on the [arxiv](https://arxiv.org/abs/1906.08679).
 
 My work is part of the Leibniz Project
 [DominoES](https://www.pik-potsdam.de/research/projects/activities/dominoes)
@@ -116,7 +99,7 @@ collaboration](https://www.pik-potsdam.de/research/projects/activities/copan).
 M
 Hi, I'm Marc. am a postdoc in the [Complexity
 Science](https://www.pik-potsdam.de/research/complexity-science) department at
-the Potsdam Institute for Climate Impact Research. 
+the Potsdam Institute for Climate Impact Research.
 
 My work is part of the Leibniz Project
 [DominoES](https://www.pik-potsdam.de/research/projects/activities/dominoes)
