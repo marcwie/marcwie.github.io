@@ -133,3 +133,7 @@ plt.savefig("water_sources.jpg")
 plt.show()
 ```
 That's it. For reproducing the figure you can either copy all the above snippets into a single file or `jupyter` notebook and run the code on your local machine. Alternatively you can get the entire code in  a single `jupyter` notebook from my [github.](https://github.com/marcwie/tidytuesday-challenges/blob/master/TidyTuesday%20Week%2019%202021%20-%20Water%20Sources.ipynb)
+
+As a final remark, note that there are a lot of issues that need to be taken care of if we were to draw any conclusions from this data set. There seems to be quite some heterogeneity in the spatial distribution of water sources which might point towards incomplete or low quality data over certain regions. We also did not dig any deeper into why  some coordinates are located outside of Africa even though the corresponding water source allegedly belongs to an African country. As such, the purpose of this post is merely to showcase some potential applications of `cartopy` and `shapely` without worrying too much about data quality and implications.
+
+
