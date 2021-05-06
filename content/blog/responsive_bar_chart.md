@@ -26,7 +26,7 @@ This example provides a very basic template for the following d3-operations:
 3. Use appropriate scales to convert the domain of the data to the range of the `svg`. We use `d3.scaleTime()` for transforming the input dates that are given as a string of the format `YYYY-MM-DD`. Similarly, we use `d3.scaleLinear()` for transforming the corresponding GDP values.
 4. Draw and transform/translate horizontal and vertical axes to their correct positions in the `svg`. We use `d3.axisBottom()` and `d3.axisLeft()` for the horizontal and vertical axis, respectively.
 5. Draw the individual bars of the chart and define corresponding mouseover events that trigger the visibility of a tooltip. For this purpose we initialize a single `div` for the tooltip and change its visibility and position according to the position of the mouse.
-6. Finalize a chart by adding appropriate labels and a title.
+6. Finalize the chart by adding appropriate labels and a title.
 
 The entire implementation is given below or in this [codepen app](https://codepen.io/marcwie/pen/rNjXQwR.) The inline-comments correspond to the operations outlined above. There are some additional css-styles that are mostly optional. The only important style is that for `.bar:hover` which changes the color of the bar that the mouse currently hovers over. You can copy the implementation into a single file and run it locally on your own machine.
 ```html
