@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Responsive Scatter Plots with d3.js</title>
+      <link>https://marcwie.github.io/blog/responsive-scatter-d3/</link>
+      <pubDate>Thu, 06 May 2021 11:16:15 +0200</pubDate>
+      
+      <guid>https://marcwie.github.io/blog/responsive-scatter-d3/</guid>
+      <description>I continued with dusting off my d3.js -skills. After revisiting how to draw responsive bar charts, I continued to address the second out of five d3.js coding challenges from freecodecamp&amp;rsquo;s course on data visualization . The purpose of this challenge is to create a responsive scatter plot of the 35 fastest bicycle riders to finish the climb up to Alpe d’Huez and indicate whether they were later confronted with doping allegations.</description>
+    </item>
+    
+    <item>
       <title>Spatial infographics in python using cartopy and shapely #TidyTuesday</title>
       <link>https://marcwie.github.io/blog/spatial-infographics-cartopy-shapely/</link>
       <pubDate>Tue, 04 May 2021 20:17:58 +0200</pubDate>

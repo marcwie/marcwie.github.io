@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+<meta name="author" content="Marc Wiedermann">
+<meta name="description" content="I continued with dusting off my d3.js -skills. After revisiting how to draw responsive bar charts, I continued to address the second out of five d3.js coding challenges from freecodecamp&rsquo;s course on data visualization . The purpose of this challenge is to create a responsive scatter plot of the 35 fastest bicycle riders to finish the climb up to Alpe d’Huez and indicate whether they were later confronted with doping allegations.">
+
+<meta property="og:title" content="Responsive Scatter Plots with d3.js" />
+<meta property="og:description" content="I continued with dusting off my d3.js -skills. After revisiting how to draw responsive bar charts, I continued to address the second out of five d3.js coding challenges from freecodecamp&rsquo;s course on data visualization . The purpose of this challenge is to create a responsive scatter plot of the 35 fastest bicycle riders to finish the climb up to Alpe d’Huez and indicate whether they were later confronted with doping allegations." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://marcwie.github.io/blog/responsive-scatter-d3/" />
+<meta property="article:published_time" content="2021-05-06T11:16:15+02:00" />
+<meta property="article:modified_time" content="2021-05-06T11:16:15+02:00" />
+
+
+<title>
+
+
+     Responsive Scatter Plots with d3.js 
+
+</title>
+<link rel="canonical" href="https://marcwie.github.io/blog/responsive-scatter-d3/">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Ubuntu+Mono:400,400i,700,700i|Raleway:500">
+
+
+
+    <link rel="stylesheet" href="https://marcwie.github.io/css/reset.css">
+    <link rel="stylesheet" href="https://marcwie.github.io/css/pygments.css">
+    <link rel="stylesheet" href="https://marcwie.github.io/css/main.css">
+    
+        <link rel="stylesheet" href="https://marcwie.github.io/css/override.css">
+    
+
+
+
+
+<link rel="shortcut icon"
+
+    href="https://marcwie.github.io/img/favicon.ico"
+
+>
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body lang="">
+
+<section class="header">
+    <div class="container">
+        <div class="content">
+            
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                
+                <a href="https://marcwie.github.io/"><img class="avatar" src="https://marcwie.github.io/img/profile.jpeg" srcset="https://marcwie.github.io/img/profile.jpeg 1x"></a>
+            
+            <a href="https://marcwie.github.io/"><div class="name">Marc Wiedermann</div></a>
+            
+            <nav>
+                <ul>
+                    
+                        
+                        <li class="nav-blog"><a href="https://marcwie.github.io/blog/"><span>Blog</span></a></li>
+                    
+                        
+                        <li class="nav-conferences"><a href="https://marcwie.github.io/conferences/"><span>Conferences</span></a></li>
+                    
+                        
+                        <li class="nav-projects"><a href="https://marcwie.github.io/projects/"><span>Projects</span></a></li>
+                    
+                        
+                        <li class="nav-publications"><a href="https://marcwie.github.io/publications/"><span>Publications</span></a></li>
+                    
+                        
+                        <li class="nav-teaching"><a href="https://marcwie.github.io/teaching/"><span>Teaching</span></a></li>
+                    
+                </ul>
+            </nav>
+        </div>
+    </div>
+</section>
+
+<section class="icons">
+    <div class="container">
+        <div class="content">
+        
+            <a href="//github.com/marcwie" target="_blank" rel="noopener"><img class="icon" src="https://marcwie.github.io/img/github.svg" alt="github" /></a>
+        
+
+        
+
+        
+            <a href="//twitter.com/m_wiedermann" target="_blank" rel="noopener"><img class="icon" src="https://marcwie.github.io/img/twitter.svg" alt="twitter" /></a>
+        
+
+	
+
+        
+
+        
+
+        
+            <a href="//linkedin.com/in/marc-wiedermann-995958210" target="_blank" rel="noopener"><img class="icon" src="https://marcwie.github.io/img/linkedin.svg" alt="linkedin" /></a>
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+            <a href="mailto:marcw@physik.hu-berlin.de"><img class="icon" src="https://marcwie.github.io/img/email.svg" alt="email" /></a>
+        
+
+        
+        
+        
+
+        
+        </div>
+    </div>
+</section>
+
+
+<section class="main post non-narrow zero-top-spacing">
+    <div class="container">
+        <div class="content">
+            <div class="front-matter">
+                <div class="title-container">
+                    <div class="page-heading">
+
+    Responsive Scatter Plots with d3.js
+
+</div>
+
+                    <div class="initials"><a href="https://marcwie.github.io/"></a></div>
+                </div>
+                <div class="meta">
+                    
+                    <div class="date" title='Thu May 6 2021 11:16:15 CEST'>May 6, 2021</div>
+                    
+                    
+		    <div class="reading-time"><div class="middot"></div>6 minutes read</div>
+                    
+                </div>
+            </div>
+            <div class="markdown">
+                <p>I continued with dusting off my <a href="https://d3js.org/" target="_blank">d3.js</a>
+-skills. After revisiting how to draw <a href="https://marcwie.github.io/blog/responsive-bar-chart-d3/">responsive bar charts,</a>
+ I continued to address the <a href="https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph" target="_blank">second out of five</a>
+ d3.js coding challenges from freecodecamp&rsquo;s <a href="https://www.freecodecamp.org/learn/data-visualization/" target="_blank">course on data visualization</a>
+. The purpose of this challenge is to create a responsive scatter plot of the 35 fastest bicycle riders to finish the climb up to <a href="https://en.wikipedia.org/wiki/Alpe_d%27Huez#Cycle_racing" target="_blank">Alpe d’Huez</a>
+ and indicate whether they were later confronted with doping allegations. You can get a first glimpse of the data <a href="https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json" target="_blank">here.</a>
+</p>
+<p>The data will be displayed in a two-dimensional graph with the year of the race on the horizontal and the finish time on the vertical axis. Upon hovering over a single marker the user is presented with additional information about the respective rider, the finish time the and whether there has been a doping allegation.</p>
+<p>I again acknowledge that there are a lot of examples for response scatter plots on the web already. Still, I hope that this example serves as a good starting point for some people to create their own responsive charts. For this purpose I refrained from using too many unnecessary transitions and styling to keep the code short, concise and hopefully easy to comprehend.</p>
+<p>I was actually able to reuse most of the code from my example on drawing <a href="https://marcwie.github.io/blog/responsive-bar-chart-d3/">responsive bar charts</a>
+ and mainly had to swap the code responsible for drawing bars with code that draws some circles. Another subtle difference is that I used the most recent d3.js version6. The differences to older versions mostly minor, the only thing to look out for is that d3 <a href="https://stackoverflow.com/questions/62459342/compatibility-between-v4-and-v5-of-d3-js" target="_blank">now uses promises</a>
+ for functions like <code>d3.json()</code> so that one needs to change function calls that previously looked like <code>d3.json(&quot;file&quot; ,function(data) {...})</code> into <code>d3.json(&quot;file&quot;).then(function(data) {...})</code>.</p>
+<p>With all that being said lets look at the final chart:</p>
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<link rel="stylesheet" href="https://marcwie.github.io/css/responsive_scatter.css">
+<div id=container align="center"></div>
+<script src="https://marcwie.github.io/js/responsive_scatter.js"></script>
+<p>The code is mainly split into six smaller parts that fulfill the following purposes:</p>
+<ol>
+<li>Load the data from an external source using the function <code>d3.json()</code>.</li>
+<li>Append an <code>svg</code> object for the scatter plot with specified width and height to the <code>body</code> or a <code>div</code> in the webpage</li>
+<li>Use appropriate scales to convert the domain of the data to the range of the <code>svg</code>. We use <code>d3.scaleLinear()</code> for transforming the years of the races that are given as integer numbers. The finish times are given in the format <code>MM:SS</code> and we thus use <code>d3.timeParse(&quot;%M:%S&quot;)</code> to convert those strings to <code>Date</code>-objects that are understood by <code>d3.scaleTime()</code>.</li>
+<li>Draw and transform/translate horizontal and vertical axes to their correct positions in the <code>svg</code>. We use <code>d3.axisBottom()</code> and <code>d3.axisLeft()</code> for the horizontal and vertical axis, respectively.</li>
+<li>Draw the individual points of the chart and color them depending on whether there has been a doping allegation or not. Additionally define mouseover events that trigger the visibility of a tooltip that display further information on the data point in question. For this purpose we initialize a single <code>div</code> for the tooltip and change its visibility and position according to the position of the mouse.</li>
+<li>Finalize the chart by adding appropriate labels as well as a legend and a title.</li>
+</ol>
+<p>Note that we could have used some form of <code>d3.scaleOrdinal()</code> to translate the information about doping allegations into a respective color for the data points. However, since we are only confronted with two cases (doping allegations or no doping allegations) I prefer to simply use an if-else condition (or a ternary operator) to set the corresponding colors of the markers.</p>
+<p>The entire code that you need to reproduce the chart is given below or in this <a href="https://codepen.io/marcwie/pen/MWpWVmQ" target="_blank">codepen app.</a>
+ The inline-comments correspond to the different steps that I have outlined above. There are some additional css-styles that are mostly optional. The only important style is that for the tooltip which sets the initial <code>visibility</code> to <code>hidden</code>. Feel free to copy the implementation into a single file and run it locally on your own machine or use it as a template for your own scatter plot.</p>
+<div class="highlight"><pre style=";-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="color:#bc7a00">&lt;!DOCTYPE html&gt;</span>
+&lt;<span style="color:#008000;font-weight:bold">meta</span> <span style="color:#7d9029">charset</span><span style="color:#666">=</span><span style="color:#ba2121">&#34;utf-8&#34;</span>&gt;
+&lt;<span style="color:#008000;font-weight:bold">html</span>&gt;
+
+&lt;<span style="color:#008000;font-weight:bold">head</span>&gt;
+  &lt;<span style="color:#008000;font-weight:bold">script</span> <span style="color:#7d9029">src</span><span style="color:#666">=</span><span style="color:#ba2121">&#34;https://d3js.org/d3.v6.min.js&#34;</span> <span style="color:#7d9029">charset</span><span style="color:#666">=</span><span style="color:#ba2121">&#34;utf-8&#34;</span>&gt;&lt;/<span style="color:#008000;font-weight:bold">script</span>&gt;
+&lt;/<span style="color:#008000;font-weight:bold">head</span>&gt;
+
+&lt;<span style="color:#008000;font-weight:bold">style</span>&gt;
+<span style="color:#666">*</span> {
+    <span style="color:#008000;font-weight:bold">font-family</span>: <span style="color:#008000;font-weight:bold">sans-serif</span>;
+}
+
+#<span style="color:#00f;font-weight:bold">tooltip</span> {
+    <span style="color:#008000;font-weight:bold">visibility</span>: <span style="color:#008000;font-weight:bold">hidden</span>;
+    <span style="color:#008000;font-weight:bold">position</span>: <span style="color:#008000;font-weight:bold">absolute</span>;
+    <span style="color:#008000;font-weight:bold">opacity</span>: <span style="color:#666">0.8</span>;
+    <span style="color:#008000;font-weight:bold">width</span>: <span style="color:#666">240</span><span style="color:#b00040">px</span>;
+    <span style="color:#008000;font-weight:bold">padding</span>: <span style="color:#666">10</span><span style="color:#b00040">px</span>;
+    <span style="color:#008000;font-weight:bold">vertical-align</span>: <span style="color:#008000;font-weight:bold">middle</span>;
+    <span style="color:#008000;font-weight:bold">border-radius</span>: <span style="color:#666">5</span><span style="color:#b00040">px</span>;<span style="">’</span>
+    <span style="color:#008000;font-weight:bold">text-align</span>: <span style="color:#008000;font-weight:bold">center</span>;
+    <span style="color:#008000;font-weight:bold">background-color</span>: <span style="color:#666">#bdc3c7</span>;
+    <span style="color:#008000;font-weight:bold">font-size</span>: <span style="color:#666">14</span><span style="color:#b00040">px</span>
+}
+
+.<span style="color:#00f;font-weight:bold">textbox</span> {
+  <span style="color:#008000;font-weight:bold">background-color</span>: <span style="color:#666">#bdc3c7</span>;
+  <span style="color:#008000;font-weight:bold">font-size</span>: <span style="color:#666">14</span><span style="color:#b00040">px</span>
+}
+
+#<span style="color:#00f;font-weight:bold">legend</span> {
+    <span style="color:#008000;font-weight:bold">opacity</span>: <span style="color:#666">0.2</span>;
+}
+
+#<span style="color:#00f;font-weight:bold">title</span> {
+    text-anchor: <span style="color:#008000;font-weight:bold">middle</span>;
+    <span style="color:#008000;font-weight:bold">font-size</span>: <span style="color:#666">22</span><span style="color:#b00040">px</span>;
+}
+
+.<span style="color:#00f;font-weight:bold">label</span> {
+    text-anchor: <span style="color:#008000;font-weight:bold">middle</span>;
+}
+
+#<span style="color:#00f;font-weight:bold">svg</span>{
+    <span style="color:#008000;font-weight:bold">background-color</span>: <span style="color:#008000;font-weight:bold">white</span>;
+}
+ &lt;/<span style="color:#008000;font-weight:bold">style</span>&gt;
+
+&lt;<span style="color:#008000;font-weight:bold">body</span>&gt;
+
+&lt;<span style="color:#008000;font-weight:bold">div</span> <span style="color:#7d9029">id</span><span style="color:#666">=</span><span style="color:#ba2121">container</span> <span style="color:#7d9029">align</span><span style="color:#666">=</span><span style="color:#ba2121">&#34;center&#34;</span>&gt;&lt;/<span style="color:#008000;font-weight:bold">div</span>&gt;
+
+&lt;<span style="color:#008000;font-weight:bold">script</span> <span style="color:#7d9029">type</span><span style="color:#666">=</span><span style="color:#ba2121">&#34;text/javascript&#34;</span>&gt;
+
+<span style="color:#408080;font-style:italic">// Url to the input data
+</span><span style="color:#408080;font-style:italic"></span><span style="color:#008000;font-weight:bold">var</span> url <span style="color:#666">=</span> <span style="color:#ba2121">&#34;https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json&#34;</span>
+
+<span style="color:#408080;font-style:italic">// Colors to differentiate riders with and without doping allegations
+</span><span style="color:#408080;font-style:italic"></span><span style="color:#008000;font-weight:bold">var</span> colors <span style="color:#666">=</span> [<span style="color:#ba2121">&#34;#27ae60&#34;</span>, <span style="color:#ba2121">&#34;#c0392b&#34;</span>]
+
+<span style="color:#408080;font-style:italic">// The attributes of the riders corresponding to the above colors
+</span><span style="color:#408080;font-style:italic"></span><span style="color:#008000;font-weight:bold">var</span> legendKeys <span style="color:#666">=</span> [<span style="color:#ba2121">&#34;No Doping Allegations&#34;</span>, <span style="color:#ba2121">&#34;Doping Allegations&#34;</span>]
+
+<span style="color:#408080;font-style:italic">// Create an invisible div for the tooltip
+</span><span style="color:#408080;font-style:italic"></span><span style="color:#008000;font-weight:bold">const</span> tooltip <span style="color:#666">=</span> d3.select(<span style="color:#ba2121">&#34;body&#34;</span>)
+                  .append(<span style="color:#ba2121">&#34;div&#34;</span>)
+                  .attr(<span style="color:#ba2121">&#34;id&#34;</span>, <span style="color:#ba2121">&#34;tooltip&#34;</span>)
+                  .style(<span style="color:#ba2121">&#34;visibility&#34;</span>, <span style="color:#ba2121">&#34;hidden&#34;</span>)
+
+<span style="color:#408080;font-style:italic">// 1. Load the data from external source
+</span><span style="color:#408080;font-style:italic"></span>d3.json(url).then(<span style="color:#008000;font-weight:bold">function</span>(data) {
+
+    <span style="color:#408080;font-style:italic">// 2. Append svg-object for the bar chart to a div in your webpage
+</span><span style="color:#408080;font-style:italic"></span>    <span style="color:#408080;font-style:italic">// (here we use a div with id=container)
+</span><span style="color:#408080;font-style:italic"></span>    <span style="color:#008000;font-weight:bold">var</span> width <span style="color:#666">=</span> <span style="color:#666">700</span>;
+    <span style="color:#008000;font-weight:bold">var</span> height <span style="color:#666">=</span> <span style="color:#666">500</span>;
+    <span style="color:#008000;font-weight:bold">var</span> margin <span style="color:#666">=</span> {left<span style="color:#666">:</span> <span style="color:#666">90</span>, top<span style="color:#666">:</span> <span style="color:#666">80</span>, bottom<span style="color:#666">:</span> <span style="color:#666">50</span>, right<span style="color:#666">:</span> <span style="color:#666">20</span>};
+    <span style="color:#008000;font-weight:bold">var</span> axisOffset <span style="color:#666">=</span> <span style="color:#666">10</span>   <span style="color:#408080;font-style:italic">// How for the axes are moved away from each other
+</span><span style="color:#408080;font-style:italic"></span>
+    <span style="color:#008000;font-weight:bold">const</span> svg <span style="color:#666">=</span> d3.select(<span style="color:#ba2121">&#34;#container&#34;</span>)
+                  .append(<span style="color:#ba2121">&#34;svg&#34;</span>)
+                  .attr(<span style="color:#ba2121">&#34;id&#34;</span>, <span style="color:#ba2121">&#34;svg&#34;</span>)
+                  .attr(<span style="color:#ba2121">&#34;width&#34;</span>, width)
+                  .attr(<span style="color:#ba2121">&#34;height&#34;</span>, height)
+
+    <span style="color:#408080;font-style:italic">// 3. Define scales to translate domains of the data to the range of the svg
+</span><span style="color:#408080;font-style:italic"></span>    <span style="color:#008000;font-weight:bold">var</span> xMin <span style="color:#666">=</span> d3.min(data, (d) =&gt; d[<span style="color:#ba2121">&#34;Year&#34;</span>]);
+    <span style="color:#008000;font-weight:bold">var</span> xMax <span style="color:#666">=</span> d3.max(data, (d) =&gt; d[<span style="color:#ba2121">&#34;Year&#34;</span>]);
+
+    <span style="color:#008000;font-weight:bold">var</span> parseTime <span style="color:#666">=</span> d3.timeParse(<span style="color:#ba2121">&#34;%M:%S&#34;</span>);
+    <span style="color:#008000;font-weight:bold">var</span> yMin <span style="color:#666">=</span> d3.min(data, (d) =&gt; parseTime(d[<span style="color:#ba2121">&#34;Time&#34;</span>]));
+    <span style="color:#008000;font-weight:bold">var</span> yMax <span style="color:#666">=</span> d3.max(data, (d) =&gt; parseTime(d[<span style="color:#ba2121">&#34;Time&#34;</span>]));
+
+    <span style="color:#008000;font-weight:bold">var</span> xScale <span style="color:#666">=</span> d3.scaleLinear()
+                   .domain([xMin, xMax])
+                   .range([margin.left <span style="color:#666">+</span> axisOffset, width<span style="color:#666">-</span> margin.right])
+
+    <span style="color:#008000;font-weight:bold">var</span> yScale <span style="color:#666">=</span> d3.scaleTime()
+                   .domain([yMax, yMin])
+                   .range([height<span style="color:#666">-</span> margin.bottom <span style="color:#666">-</span> axisOffset, margin.top])
+
+    <span style="color:#408080;font-style:italic">// 4. Draw and transform/translate horizontal and vertical axes
+</span><span style="color:#408080;font-style:italic"></span>    <span style="color:#008000;font-weight:bold">var</span> xAxis <span style="color:#666">=</span> d3.axisBottom().scale(xScale).tickFormat(d3.format(<span style="color:#ba2121">&#34;d&#34;</span>))
+    <span style="color:#008000;font-weight:bold">var</span> yAxis <span style="color:#666">=</span> d3.axisLeft().scale(yScale).tickFormat(d3.timeFormat(<span style="color:#ba2121">&#34;%M:%S&#34;</span>))
+
+    svg.append(<span style="color:#ba2121">&#34;g&#34;</span>)
+       .attr(<span style="color:#ba2121">&#34;transform&#34;</span>, <span style="color:#ba2121">&#34;translate(0, &#34;</span><span style="color:#666">+</span> (height <span style="color:#666">-</span> margin.bottom) <span style="color:#666">+</span> <span style="color:#ba2121">&#34;)&#34;</span>)
+       .attr(<span style="color:#ba2121">&#34;id&#34;</span>, <span style="color:#ba2121">&#34;x-axis&#34;</span>)
+       .call(xAxis)
+
+    svg.append(<span style="color:#ba2121">&#34;g&#34;</span>)
+       .attr(<span style="color:#ba2121">&#34;transform&#34;</span>, <span style="color:#ba2121">&#34;translate(&#34;</span><span style="color:#666">+</span> (margin.left)<span style="color:#666">+</span><span style="color:#ba2121">&#34;, 0)&#34;</span>)
+       .attr(<span style="color:#ba2121">&#34;id&#34;</span>, <span style="color:#ba2121">&#34;y-axis&#34;</span>)
+       .call(yAxis)
+
+    <span style="color:#408080;font-style:italic">// 5. Draw individual scatter points and define mouse events for the tooltip
+</span><span style="color:#408080;font-style:italic"></span>    svg.selectAll(<span style="color:#ba2121">&#34;scatterPoints&#34;</span>)
+       .data(data)
+       .enter()
+       .append(<span style="color:#ba2121">&#34;circle&#34;</span>)
+       .attr(<span style="color:#ba2121">&#34;cx&#34;</span>, (d) =&gt; xScale(d[<span style="color:#ba2121">&#34;Year&#34;</span>]))
+       .attr(<span style="color:#ba2121">&#34;cy&#34;</span>, (d) =&gt; yScale(parseTime(d[<span style="color:#ba2121">&#34;Time&#34;</span>])))
+       .attr(<span style="color:#ba2121">&#34;r&#34;</span>, <span style="color:#666">5</span>)
+       .attr(<span style="color:#ba2121">&#34;fill&#34;</span>, (d) =&gt; (d[<span style="color:#ba2121">&#34;Doping&#34;</span>] <span style="color:#666">==</span> <span style="color:#ba2121">&#34;&#34;</span>) <span style="color:#666">?</span> colors[<span style="color:#666">0</span>] <span style="color:#666">:</span> colors[<span style="color:#666">1</span>])
+       .attr(<span style="color:#ba2121">&#34;class&#34;</span>, <span style="color:#ba2121">&#34;dot&#34;</span>)
+       .attr(<span style="color:#ba2121">&#34;data-xvalue&#34;</span>, (d) =&gt; d[<span style="color:#ba2121">&#34;Year&#34;</span>])
+       .attr(<span style="color:#ba2121">&#34;data-yvalue&#34;</span>, (d) =&gt; parseTime(d[<span style="color:#ba2121">&#34;Time&#34;</span>]))
+       .on(<span style="color:#ba2121">&#34;mouseover&#34;</span>, <span style="color:#008000;font-weight:bold">function</span>(d){
+           info <span style="color:#666">=</span> d[<span style="color:#ba2121">&#34;originalTarget&#34;</span>][<span style="color:#ba2121">&#34;__data__&#34;</span>]
+           tooltip.style(<span style="color:#ba2121">&#34;visibility&#34;</span>, <span style="color:#ba2121">&#34;visible&#34;</span>)
+                  .style(<span style="color:#ba2121">&#34;left&#34;</span>, event.pageX<span style="color:#666">+</span><span style="color:#666">10</span><span style="color:#666">+</span><span style="color:#ba2121">&#34;px&#34;</span>)
+                  .style(<span style="color:#ba2121">&#34;top&#34;</span>, event.pageY<span style="color:#666">-</span><span style="color:#666">80</span><span style="color:#666">+</span><span style="color:#ba2121">&#34;px&#34;</span>)
+                  .attr(<span style="color:#ba2121">&#34;data-year&#34;</span>, info[<span style="color:#ba2121">&#34;Year&#34;</span>])
+                  .html(info[<span style="color:#ba2121">&#34;Name&#34;</span>]<span style="color:#666">+</span><span style="color:#ba2121">&#34; (&#34;</span><span style="color:#666">+</span>info[<span style="color:#ba2121">&#34;Year&#34;</span>]<span style="color:#666">+</span><span style="color:#ba2121">&#34;) &lt;br&gt; Time: &#34;</span><span style="color:#666">+</span>info[<span style="color:#ba2121">&#34;Time&#34;</span>]<span style="color:#666">+</span><span style="color:#ba2121">&#34;&lt;br&gt;&lt;br&gt;&#34;</span><span style="color:#666">+</span>info[<span style="color:#ba2121">&#34;Doping&#34;</span>])
+       })
+       .on(<span style="color:#ba2121">&#34;mousemove&#34;</span>, <span style="color:#008000;font-weight:bold">function</span>(){
+           tooltip.style(<span style="color:#ba2121">&#34;left&#34;</span>, event.pageX<span style="color:#666">+</span><span style="color:#666">10</span><span style="color:#666">+</span><span style="color:#ba2121">&#34;px&#34;</span>)
+       })
+       .on(<span style="color:#ba2121">&#34;mouseout&#34;</span>, <span style="color:#008000;font-weight:bold">function</span>(){
+           tooltip.style(<span style="color:#ba2121">&#34;visibility&#34;</span>, <span style="color:#ba2121">&#34;hidden&#34;</span>)
+       })
+
+     <span style="color:#408080;font-style:italic">// 6. Finalize chart by adding title, axes labels and legend
+</span><span style="color:#408080;font-style:italic"></span>     svg.append(<span style="color:#ba2121">&#34;text&#34;</span>)
+        .attr(<span style="color:#ba2121">&#34;x&#34;</span>, margin.left <span style="color:#666">+</span> (width <span style="color:#666">-</span> margin.left <span style="color:#666">-</span> margin.right) <span style="color:#666">/</span> <span style="color:#666">2</span>)
+        .attr(<span style="color:#ba2121">&#34;y&#34;</span>, height <span style="color:#666">-</span> margin.bottom <span style="color:#666">/</span> <span style="color:#666">5</span>)
+        .attr(<span style="color:#ba2121">&#34;class&#34;</span>, <span style="color:#ba2121">&#34;label&#34;</span>)
+        .text(<span style="color:#ba2121">&#34;Year&#34;</span>);
+
+     svg.append(<span style="color:#ba2121">&#34;text&#34;</span>)
+         .attr(<span style="color:#ba2121">&#34;y&#34;</span>, margin.left<span style="color:#666">/</span><span style="color:#666">4</span>)
+         .attr(<span style="color:#ba2121">&#34;x&#34;</span>, <span style="color:#666">-</span>height<span style="color:#666">/</span><span style="color:#666">2</span>)
+         .attr(<span style="color:#ba2121">&#34;transform&#34;</span>, <span style="color:#ba2121">&#34;rotate(-90)&#34;</span>)
+         .attr(<span style="color:#ba2121">&#34;class&#34;</span>, <span style="color:#ba2121">&#34;label&#34;</span>)
+         .text(<span style="color:#ba2121">&#34;Time to finish&#34;</span>);
+
+     svg.append(<span style="color:#ba2121">&#34;text&#34;</span>)
+        .attr(<span style="color:#ba2121">&#34;x&#34;</span>, margin.left <span style="color:#666">+</span> (width <span style="color:#666">-</span> margin.left <span style="color:#666">-</span> margin.right) <span style="color:#666">/</span> <span style="color:#666">2</span>)
+        .attr(<span style="color:#ba2121">&#34;y&#34;</span>, margin.top <span style="color:#666">/</span> <span style="color:#666">2.6</span>)
+        .attr(<span style="color:#ba2121">&#34;id&#34;</span>, <span style="color:#ba2121">&#34;title&#34;</span>)
+        .text(<span style="color:#ba2121">&#34;Doping in professional bike racing&#34;</span>);
+
+     svg.append(<span style="color:#ba2121">&#34;text&#34;</span>)
+        .attr(<span style="color:#ba2121">&#34;x&#34;</span>, margin.left <span style="color:#666">+</span> (width <span style="color:#666">-</span> margin.left <span style="color:#666">-</span> margin.right) <span style="color:#666">/</span> <span style="color:#666">2</span>)
+        .attr(<span style="color:#ba2121">&#34;y&#34;</span>, margin.top <span style="color:#666">/</span> <span style="color:#666">1.4</span>)
+        .text(<span style="color:#ba2121">&#34;35 fastest times to finish Alpe d&#39;Huez&#34;</span>)
+        .style(<span style="color:#ba2121">&#34;font-size&#34;</span>, <span style="color:#ba2121">&#34;16px&#34;</span>)
+        .style(<span style="color:#ba2121">&#34;text-anchor&#34;</span>, <span style="color:#ba2121">&#34;middle&#34;</span>)
+
+     svg.selectAll(<span style="color:#ba2121">&#34;legendSymbols&#34;</span>)
+        .data(legendKeys)
+        .enter()
+        .append(<span style="color:#ba2121">&#34;circle&#34;</span>)
+        .attr(<span style="color:#ba2121">&#34;cx&#34;</span>, width <span style="color:#666">-</span> margin.right <span style="color:#666">-</span> <span style="color:#666">200</span>)
+        .attr(<span style="color:#ba2121">&#34;cy&#34;</span>, (d, i) =&gt; <span style="color:#666">150</span> <span style="color:#666">+</span> i <span style="color:#666">*</span> <span style="color:#666">25</span>)
+        .attr(<span style="color:#ba2121">&#34;r&#34;</span>, <span style="color:#666">5</span>)
+        .attr(<span style="color:#ba2121">&#34;fill&#34;</span>, (d, i) =&gt; colors[i])
+
+     svg.selectAll(<span style="color:#ba2121">&#34;legendTexts&#34;</span>)
+        .data(legendKeys)
+        .enter()
+        .append(<span style="color:#ba2121">&#34;text&#34;</span>)
+        .text((d) =&gt; d)
+        .attr(<span style="color:#ba2121">&#34;x&#34;</span>, width <span style="color:#666">-</span> margin.right <span style="color:#666">-</span> <span style="color:#666">200</span> <span style="color:#666">+</span> <span style="color:#666">15</span>)
+        .attr(<span style="color:#ba2121">&#34;y&#34;</span>, (d, i) =&gt; <span style="color:#666">150</span> <span style="color:#666">+</span> i <span style="color:#666">*</span> <span style="color:#666">25</span> <span style="color:#666">+</span> <span style="color:#666">5</span>)
+        .attr(<span style="color:#ba2121">&#34;class&#34;</span>, <span style="color:#ba2121">&#34;textbox&#34;</span>)
+
+     <span style="color:#008000;font-weight:bold">const</span> legend <span style="color:#666">=</span> svg.append(<span style="color:#ba2121">&#34;rect&#34;</span>)
+                       .attr(<span style="color:#ba2121">&#34;x&#34;</span>, width <span style="color:#666">-</span> margin.right <span style="color:#666">-</span> <span style="color:#666">200</span> <span style="color:#666">-</span> <span style="color:#666">15</span>)
+                       .attr(<span style="color:#ba2121">&#34;y&#34;</span>, <span style="color:#666">150</span><span style="color:#666">-</span><span style="color:#666">5</span><span style="color:#666">-</span><span style="color:#666">10</span>)
+                       .attr(<span style="color:#ba2121">&#34;width&#34;</span>, <span style="color:#666">195</span>)
+                       .attr(<span style="color:#ba2121">&#34;height&#34;</span>, <span style="color:#666">55</span>)
+                       .attr(<span style="color:#ba2121">&#34;id&#34;</span>, <span style="color:#ba2121">&#34;legend&#34;</span>)
+                       .attr(<span style="color:#ba2121">&#34;class&#34;</span>, <span style="color:#ba2121">&#34;textbox&#34;</span>)
+}) 
+&lt;/<span style="color:#008000;font-weight:bold">script</span>&gt;
+&lt;/<span style="color:#008000;font-weight:bold">body</span>&gt;
+&lt;/<span style="color:#008000;font-weight:bold">html</span>&gt;
+</code></pre></div>
+                <br>
+                
+                <p class="back-to-posts"><a href="https://marcwie.github.io/blog">Back to posts</a></p>
+            </div>
+            <br>
+            <div class="disqus">
+                
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+

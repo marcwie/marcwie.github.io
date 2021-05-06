@@ -202,7 +202,7 @@ I went back to freecodecamp&rsquo;s course on data visualization which provides 
 <li>Use appropriate scales to convert the domain of the data to the range of the <code>svg</code>. We use <code>d3.scaleTime()</code> for transforming the input dates that are given as a string of the format <code>YYYY-MM-DD</code>. Similarly, we use <code>d3.scaleLinear()</code> for transforming the corresponding GDP values.</li>
 <li>Draw and transform/translate horizontal and vertical axes to their correct positions in the <code>svg</code>. We use <code>d3.axisBottom()</code> and <code>d3.axisLeft()</code> for the horizontal and vertical axis, respectively.</li>
 <li>Draw the individual bars of the chart and define corresponding mouseover events that trigger the visibility of a tooltip. For this purpose we initialize a single <code>div</code> for the tooltip and change its visibility and position according to the position of the mouse.</li>
-<li>Finalize a chart by adding appropriate labels and a title.</li>
+<li>Finalize the chart by adding appropriate labels and a title.</li>
 </ol>
 <p>The entire implementation is given below or in this <a href="https://codepen.io/marcwie/pen/rNjXQwR." target="_blank">codepen app</a>
  The inline-comments correspond to the operations outlined above. There are some additional css-styles that are mostly optional. The only important style is that for <code>.bar:hover</code> which changes the color of the bar that the mouse currently hovers over. You can copy the implementation into a single file and run it locally on your own machine.</p>
