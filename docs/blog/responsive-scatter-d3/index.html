@@ -228,22 +228,20 @@
     <span style="color:#008000;font-weight:bold">visibility</span>: <span style="color:#008000;font-weight:bold">hidden</span>;
     <span style="color:#008000;font-weight:bold">position</span>: <span style="color:#008000;font-weight:bold">absolute</span>;
     <span style="color:#008000;font-weight:bold">opacity</span>: <span style="color:#666">0.8</span>;
-    <span style="color:#008000;font-weight:bold">width</span>: <span style="color:#666">240</span><span style="color:#b00040">px</span>;
     <span style="color:#008000;font-weight:bold">padding</span>: <span style="color:#666">10</span><span style="color:#b00040">px</span>;
     <span style="color:#008000;font-weight:bold">vertical-align</span>: <span style="color:#008000;font-weight:bold">middle</span>;
-    <span style="color:#008000;font-weight:bold">border-radius</span>: <span style="color:#666">5</span><span style="color:#b00040">px</span>;<span style="">’</span>
-    <span style="color:#008000;font-weight:bold">text-align</span>: <span style="color:#008000;font-weight:bold">center</span>;
-    <span style="color:#008000;font-weight:bold">background-color</span>: <span style="color:#666">#bdc3c7</span>;
-    <span style="color:#008000;font-weight:bold">font-size</span>: <span style="color:#666">14</span><span style="color:#b00040">px</span>
+    <span style="color:#008000;font-weight:bold">border-radius</span>: <span style="color:#666">5</span><span style="color:#b00040">px</span>;
+    <span style="color:#008000;font-weight:bold">background-color</span>: <span style="color:#666">#ecf0f1</span>;
+    <span style="color:#008000;font-weight:bold">font-size</span>: <span style="color:#666">14</span><span style="color:#b00040">px</span>;
 }
 
 .<span style="color:#00f;font-weight:bold">textbox</span> {
-  <span style="color:#008000;font-weight:bold">background-color</span>: <span style="color:#666">#bdc3c7</span>;
-  <span style="color:#008000;font-weight:bold">font-size</span>: <span style="color:#666">14</span><span style="color:#b00040">px</span>
+    <span style="color:#008000;font-weight:bold">font-size</span>: <span style="color:#666">14</span><span style="color:#b00040">px</span>
 }
 
 #<span style="color:#00f;font-weight:bold">legend</span> {
     <span style="color:#008000;font-weight:bold">opacity</span>: <span style="color:#666">0.2</span>;
+    fill: <span style="color:#666">#2c3e50</span>;
 }
 
 #<span style="color:#00f;font-weight:bold">title</span> {
@@ -270,7 +268,7 @@
 </span><span style="color:#408080;font-style:italic"></span><span style="color:#008000;font-weight:bold">var</span> url <span style="color:#666">=</span> <span style="color:#ba2121">&#34;https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json&#34;</span>
 
 <span style="color:#408080;font-style:italic">// Colors to differentiate riders with and without doping allegations
-</span><span style="color:#408080;font-style:italic"></span><span style="color:#008000;font-weight:bold">var</span> colors <span style="color:#666">=</span> [<span style="color:#ba2121">&#34;#27ae60&#34;</span>, <span style="color:#ba2121">&#34;#c0392b&#34;</span>]
+</span><span style="color:#408080;font-style:italic"></span><span style="color:#008000;font-weight:bold">var</span> colors <span style="color:#666">=</span> [<span style="color:#ba2121">&#34;#27ae60&#34;</span>, <span style="color:#ba2121">&#34;#8e44ad&#34;</span>]
 
 <span style="color:#408080;font-style:italic">// The attributes of the riders corresponding to the above colors
 </span><span style="color:#408080;font-style:italic"></span><span style="color:#008000;font-weight:bold">var</span> legendKeys <span style="color:#666">=</span> [<span style="color:#ba2121">&#34;No Doping Allegations&#34;</span>, <span style="color:#ba2121">&#34;Doping Allegations&#34;</span>]
@@ -402,10 +400,11 @@
      <span style="color:#008000;font-weight:bold">const</span> legend <span style="color:#666">=</span> svg.append(<span style="color:#ba2121">&#34;rect&#34;</span>)
                        .attr(<span style="color:#ba2121">&#34;x&#34;</span>, width <span style="color:#666">-</span> margin.right <span style="color:#666">-</span> <span style="color:#666">200</span> <span style="color:#666">-</span> <span style="color:#666">15</span>)
                        .attr(<span style="color:#ba2121">&#34;y&#34;</span>, <span style="color:#666">150</span><span style="color:#666">-</span><span style="color:#666">5</span><span style="color:#666">-</span><span style="color:#666">10</span>)
+                       .attr(<span style="color:#ba2121">&#34;rx&#34;</span>, <span style="color:#666">5</span>)
+                       .attr(<span style="color:#ba2121">&#34;ry&#34;</span>, <span style="color:#666">5</span>)
                        .attr(<span style="color:#ba2121">&#34;width&#34;</span>, <span style="color:#666">195</span>)
                        .attr(<span style="color:#ba2121">&#34;height&#34;</span>, <span style="color:#666">55</span>)
                        .attr(<span style="color:#ba2121">&#34;id&#34;</span>, <span style="color:#ba2121">&#34;legend&#34;</span>)
-                       .attr(<span style="color:#ba2121">&#34;class&#34;</span>, <span style="color:#ba2121">&#34;textbox&#34;</span>)
 }) 
 &lt;/<span style="color:#008000;font-weight:bold">script</span>&gt;
 &lt;/<span style="color:#008000;font-weight:bold">body</span>&gt;
