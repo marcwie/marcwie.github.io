@@ -1,0 +1,38 @@
+* {
+    font-family: sans-serif;
+}
+
+#tooltip {
+    visibility: hidden;
+    position: absolute;
+    opacity: 0.8;
+    width: 240px;
+    padding: 10px;
+    vertical-align: middle;
+    border-radius: 5px;’
+    text-align: center;
+    background-color: #bdc3c7;
+    font-size: 14px
+}
+
+.textbox {
+  background-color: #bdc3c7;
+  font-size: 14px
+}
+
+#legend {
+    opacity: 0.2;
+}
+
+#title {
+    text-anchor: middle;
+    font-size: 22px;
+}
+
+.label {
+    text-anchor: middle;
+}
+
+#svg{
+    background-color: white;
+}
