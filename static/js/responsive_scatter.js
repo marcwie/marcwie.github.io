@@ -2,7 +2,7 @@
 var url = "https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json"
 
 // Colors to differentiate riders with and without doping allegations
-var colors = ["#27ae60", "#c0392b"]
+var colors = ["#27ae60", "#8e44ad"]
 
 // The attributes of the riders corresponding to the above colors
 var legendKeys = ["No Doping Allegations", "Doping Allegations"]
@@ -134,8 +134,9 @@ d3.json(url).then(function(data) {
      const legend = svg.append("rect")
                        .attr("x", width - margin.right - 200 - 15)
                        .attr("y", 150-5-10)
+                       .attr("rx", 5)
+                       .attr("ry", 5)
                        .attr("width", 195)
                        .attr("height", 55)
                        .attr("id", "legend")
-                       .attr("class", "textbox")
 })
