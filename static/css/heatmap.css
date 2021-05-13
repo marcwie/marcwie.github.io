@@ -1,0 +1,31 @@
+* {
+    font-family: sans-serif;
+}
+
+#title {
+    text-anchor: middle;
+    font-size: 22px;
+}
+
+#description {
+    text-anchor: middle;
+    font-size: 16px;
+}
+
+#tooltip {
+    visibility: hidden;
+    position: absolute;
+    opacity: 0.8;
+    padding: 10px;
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #34495e;
+    font-size: 14px;
+    color: #ecf0f1;
+}
+
+.label {
+    text-anchor: middle;
+    font-size: 14px;
+}
