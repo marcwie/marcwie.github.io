@@ -11,24 +11,23 @@ background in complex system's studies, time series analysis, complex network
 theory and data science. I'm an alumni of the Humboldt-University of Berlin, The Chinese University of
 Hong Kong and the Complexity Science Department of the Potsdam Institute for Climate Impact Research.
 
-## News
+### News
 
-**26 Apr. '21:** Our new paper in [The European Physical Journal Special Topics](https://link.springer.com/article/10.1140/epjs/s11734-021-00011-5#citeas) shows that anticipation of future
+**26 Apr. '21:** Our paper in [The European Physical Journal Special Topics](https://link.springer.com/article/10.1140/epjs/s11734-021-00011-5#citeas) shows that anticipation of future
 environmental damages can lead to metastable states of collective
-behaviour. It is now published
-in
+behaviour. 
 
-**18 Mar. '21:** A new preprint is out on [arXiv](https://arxiv.org/abs/2103.09496) in which we investigate the potential of dose-responses functions for characterizing
+**18 Mar. '21:** Our new [preprint](https://arxiv.org/abs/2103.09496) investigates dose-responses functions to characterize
 spreading processes in the [Copenhagen Networks Study](https://www.nature.com/articles/s41597-019-0325-x) data set.
 
-**12 Feb. '21:** Our recent [paper in Frontiers in Climate](https://www.frontiersin.org/articles/10.3389/fclim.2021.618548/full)
-provides a spatially explicit and comprehensive global overview on precipitation responses to different types of the
+**12 Feb. '21:** New paper in [Frontiers in Climate](https://www.frontiersin.org/articles/10.3389/fclim.2021.618548/full)
+which provides a spatially explicit and global overview on precipitation responses to different types of the
 El Niño–Southern Oscillation.
 
 **05 Nov. '20:** I appeared at the [Scientists for Future
-Podcast](https://s4f-podcast.de/) and discussed about social and natural
+Podcast](https://s4f-podcast.de/) to discuss social and natural
 tipping elements as well as their potential interactions. The full episode
-(unfortunately only in German) is available on the [S4F
+(in German) is available on the [S4F
 website](https://s4f-podcast.de/2020/11/s4f008-domino-erdsystem/),
 [iTunes](https://podcasts.apple.com/de/podcast/folge-9-dominoeffekte-im-erdsystem/id1498309073?i=1000497379327)
 and [Spotify.](https://open.spotify.com/episode/0j0GxFbkw4WeBg0xH7Izxi?si=wQaF9SmKTDWZ_uBlL1_vJQ)

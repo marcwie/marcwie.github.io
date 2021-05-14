@@ -4,10 +4,11 @@ date: 2019-02-24T19:10:15+01:00
 draft: false
 ---
 
-Preprints of most my publications are also found in the
+<!--Preprints of most my publications are also found in the
 [arXiv](https://arxiv.org/search/physics?searchtype=author&query=Wiedermann%2C+M).
+-->
 
-## In Review
+### Preprint
 
 J. F. Donges, J. Lochner, J. Heitzig, N. Kitzmann, S. Lehmann, **M. Wiedermann**, J. Vollmer\
 [Dose-response function approach for detecting spreading processes in temporal
@@ -24,7 +25,7 @@ R. Winkelmann, J. F. Donges, E. K. Smith, M. Milkoreit, C. Eder, J. Heitzig, A. 
 **M. Wiedermann**, R. Winkelmann,  J.F. Donges, C. Eder, J. Heitzig, A. Katsanidou, E.K. Smith\
 [Domino Effects in the Earth System – The potential role of wanted tipping points](https://arxiv.org/abs/1911.10063)
 
-## Published
+### Published
 
 **P22** P.M. Müller, J. Heitzig, J. Kurths, K. Lüdge, **M. Wiedermann**\
 [Anticipation-induced social tipping – Can the environment be stabilised by
