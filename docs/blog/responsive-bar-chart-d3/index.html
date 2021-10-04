@@ -16,9 +16,10 @@ I went back to freecodecamp&rsquo;s course on data visualization which provides 
 <meta property="og:description" content="For a while now, I&rsquo;ve been wanting to dust off my skills in creating responsive graphics with d3.js. In the past I&rsquo;ve used it to create some visualizations of complex networks or simple interactive dashboards for my former clients.
 I went back to freecodecamp&rsquo;s course on data visualization which provides a highly recommended introduction to d3 for all those with some experience in web development, i.e., html, css and javascript. Below is my implementation of their first out of five Coding Challenges that visualizes a time series of quarterly US GDP with a bar chart." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://marcwie.github.io/blog/responsive-bar-chart-d3/" />
+<meta property="og:url" content="https://marcwie.github.io/blog/responsive-bar-chart-d3/" /><meta property="article:section" content="blog" />
 <meta property="article:published_time" content="2021-05-03T20:25:40+02:00" />
 <meta property="article:modified_time" content="2021-05-03T20:25:40+02:00" />
+
 
 
 <title>
@@ -189,7 +190,7 @@ I went back to freecodecamp&rsquo;s course on data visualization which provides 
  or simple interactive dashboards for my former clients.</p>
 <p>I went back to freecodecamp&rsquo;s course on <a href="https://www.freecodecamp.org/learn/data-visualization/" target="_blank">data visualization</a>
  which provides a highly recommended introduction to d3 for all those with some experience in web development, i.e., html, css and javascript. Below is my implementation of their <a href="https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart" target="_blank">first out of five Coding Challenges</a>
- that visualizes a time series of quarterly US GDP with a bar chart. I&rsquo;m aware that there are already tons of examples for such kinds of graphics in the web, but since every person has some unique coding style (I usually have a hard time to fully comprehend all details of other peoples&rsquo; example code) I keep it here for my personal reference with the hope that it is useful for some other people, too.</p>
+ that visualizes a time series of quarterly US GDP with a bar chart. I&rsquo;m aware that there are already tons of examples for such kinds of graphics in the web, but since every person has some unique coding style (I usually have a hard time to fully comprehend all details of other peoples' example code) I keep it here for my personal reference with the hope that it is useful for some other people, too.</p>
 <p>In particular, this chart is meant to respond to mouseover events by displaying a tooltip with more details about the data in the respective bar. I tried not to overload the chart with transitions in order to keep the example focused and concise:</p>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <link rel="stylesheet" href="https://marcwie.github.io/css/responsive_bar_chart.css">
@@ -206,7 +207,7 @@ I went back to freecodecamp&rsquo;s course on data visualization which provides 
 </ol>
 <p>The entire implementation is given below or in this <a href="https://codepen.io/marcwie/pen/rNjXQwR." target="_blank">codepen app</a>
  The inline-comments correspond to the operations outlined above. There are some additional css-styles that are mostly optional. The only important style is that for <code>.bar:hover</code> which changes the color of the bar that the mouse currently hovers over. You can copy the implementation into a single file and run it locally on your own machine.</p>
-<div class="highlight"><pre style=";-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="color:#bc7a00">&lt;!DOCTYPE html&gt;</span>
+<div class="highlight"><pre tabindex="0" style=";-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="color:#bc7a00">&lt;!DOCTYPE html&gt;</span>
 &lt;<span style="color:#008000;font-weight:bold">meta</span> <span style="color:#7d9029">charset</span><span style="color:#666">=</span><span style="color:#ba2121">&#34;utf-8&#34;</span>&gt;
 &lt;<span style="color:#008000;font-weight:bold">html</span>&gt;
 

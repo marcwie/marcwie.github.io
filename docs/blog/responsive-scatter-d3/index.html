@@ -14,9 +14,10 @@
 <meta property="og:title" content="Responsive Scatter Plots with d3.js" />
 <meta property="og:description" content="I continued with dusting off my d3.js -skills. After revisiting how to draw responsive bar charts, I continued to address the second out of five d3.js coding challenges from freecodecamp&rsquo;s course on data visualization . The purpose of this challenge is to create a responsive scatter plot of the 35 fastest bicycle riders to finish the climb up to Alpe d’Huez and indicate whether they were later confronted with doping allegations." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://marcwie.github.io/blog/responsive-scatter-d3/" />
+<meta property="og:url" content="https://marcwie.github.io/blog/responsive-scatter-d3/" /><meta property="article:section" content="blog" />
 <meta property="article:published_time" content="2021-05-06T11:16:15+02:00" />
 <meta property="article:modified_time" content="2021-05-06T11:16:15+02:00" />
+
 
 
 <title>
@@ -211,7 +212,7 @@
 <p>Note that we could have used some form of <code>d3.scaleOrdinal()</code> to translate the information about doping allegations into a respective color for the data points. However, since we are only confronted with two cases (doping allegations or no doping allegations) I prefer to simply use an if-else condition (or a ternary operator) to set the corresponding colors of the markers.</p>
 <p>The entire code that you need to reproduce the chart is given below or in this <a href="https://codepen.io/marcwie/pen/MWpWVmQ" target="_blank">codepen app.</a>
  The inline-comments correspond to the different steps that I have outlined above. There are some additional css-styles that are mostly optional. The only important style is that for the tooltip which sets the initial <code>visibility</code> to <code>hidden</code>. Feel free to copy the implementation into a single file and run it locally on your own machine or use it as a template for your own scatter plot.</p>
-<div class="highlight"><pre style=";-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="color:#bc7a00">&lt;!DOCTYPE html&gt;</span>
+<div class="highlight"><pre tabindex="0" style=";-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="color:#bc7a00">&lt;!DOCTYPE html&gt;</span>
 &lt;<span style="color:#008000;font-weight:bold">meta</span> <span style="color:#7d9029">charset</span><span style="color:#666">=</span><span style="color:#ba2121">&#34;utf-8&#34;</span>&gt;
 &lt;<span style="color:#008000;font-weight:bold">html</span>&gt;
 

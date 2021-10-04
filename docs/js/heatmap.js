@@ -51,7 +51,6 @@ d3.json(url).then(function(data) {
 
   var yAxis = d3.axisLeft().scale(yScale)
 
-
   // Define the colorscale. Compute absolute maximum value of datapoints so that the colorscale is symmetric around zero
   var extent = d3.max(truncData, (d) => Math.abs(d.variance - baseline));
   var colorMap = d3.scaleQuantize()
