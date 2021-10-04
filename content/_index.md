@@ -13,12 +13,14 @@ Hong Kong and the Complexity Science Department of the Potsdam Institute for Cli
 
 ### News
 
+**04 Oct. '21:** Our new
+[paper](https://link.springer.com/article/10.1140/epjs/s11734-021-00279-7)
+investigates dose-responses functions for detecting signatures of complex
+contagion in temporal network data sets. 
+
 **26 Apr. '21:** Our paper in [The European Physical Journal Special Topics](https://link.springer.com/article/10.1140/epjs/s11734-021-00011-5#citeas) shows that anticipation of future
 environmental damages can lead to metastable states of collective
 behaviour. 
-
-**18 Mar. '21:** Our new [preprint](https://arxiv.org/abs/2103.09496) investigates dose-responses functions to characterize
-spreading processes in the [Copenhagen Networks Study](https://www.nature.com/articles/s41597-019-0325-x) data set.
 
 **12 Feb. '21:** New paper in [Frontiers in Climate](https://www.frontiersin.org/articles/10.3389/fclim.2021.618548/full)
 which provides a spatially explicit and global overview on precipitation responses to different types of the

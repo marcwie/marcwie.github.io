@@ -10,11 +10,6 @@ draft: false
 
 ### Preprint
 
-J. F. Donges, J. Lochner, J. Heitzig, N. Kitzmann, S. Lehmann, **M. Wiedermann**, J. Vollmer\
-[Dose-response function approach for detecting spreading processes in temporal
-network data: Exploring social contagion in the Copenhagen Networks
-Study](https://arxiv.org/abs/2103.09496)
-
 F. Schunck, **M. Wiedermann**, J. Heizig, J. F. Donges\
 [A dynamic network model of societal complexity and resilience inspired by
 Tainter\'s theory of collapse](https://arxiv.org/abs/2102.06698)
@@ -26,6 +21,12 @@ R. Winkelmann, J. F. Donges, E. K. Smith, M. Milkoreit, C. Eder, J. Heitzig, A. 
 [Domino Effects in the Earth System – The potential role of wanted tipping points](https://arxiv.org/abs/1911.10063)
 
 ### Published
+
+**P23** J. F. Donges, J. Lochner, N. Kitzmann, J. Heitzig, S. Lehmann, **M. Wiedermann**, J. Vollmer\
+[Dose–response functions and surrogate models for exploring social contagion in the Copenhagen Networks Study](https://link.springer.com/article/10.1140/epjs/s11734-021-00279-7)\
+The European Physical Journal Special Topics (2021)\
+Part of the collection on [Tipping in Complex Systems: Theory, Methods and
+Applications](https://link.springer.com/journal/11734/topicalCollection/AC_ac67ae404e16f19b99913247f14b8072)
 
 **P22** P.M. Müller, J. Heitzig, J. Kurths, K. Lüdge, **M. Wiedermann**\
 [Anticipation-induced social tipping – Can the environment be stabilised by
