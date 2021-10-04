@@ -22,7 +22,7 @@ R. Winkelmann, J. F. Donges, E. K. Smith, M. Milkoreit, C. Eder, J. Heitzig, A. 
 
 ### Published
 
-**P23** J. F. Donges, J. Lochner, N. Kitzmann, J. Heitzig, S. Lehmann, **M. Wiedermann**, J. Vollmer\
+**P23** J.F. Donges, J. Lochner, N. Kitzmann, J. Heitzig, S. Lehmann, **M. Wiedermann**, J. Vollmer\
 [Dose–response functions and surrogate models for exploring social contagion in the Copenhagen Networks Study](https://link.springer.com/article/10.1140/epjs/s11734-021-00279-7)\
 The European Physical Journal Special Topics (2021)\
 Part of the collection on [Tipping in Complex Systems: Theory, Methods and
