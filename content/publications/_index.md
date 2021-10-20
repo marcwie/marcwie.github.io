@@ -14,13 +14,14 @@ F. Schunck, **M. Wiedermann**, J. Heizig, J. F. Donges\
 [A dynamic network model of societal complexity and resilience inspired by
 Tainter\'s theory of collapse](https://arxiv.org/abs/2102.06698)
 
-R. Winkelmann, J. F. Donges, E. K. Smith, M. Milkoreit, C. Eder, J. Heitzig, A. Katsanidou, **M. Wiedermann**, N. Wunderling, T. M. Lenton\
-[Social tipping processes for sustainability: An analytical framework](https://arxiv.org/abs/2010.04488)
-
 **M. Wiedermann**, R. Winkelmann,  J.F. Donges, C. Eder, J. Heitzig, A. Katsanidou, E.K. Smith\
 [Domino Effects in the Earth System – The potential role of wanted tipping points](https://arxiv.org/abs/1911.10063)
 
 ### Published
+
+**P24** R. Winkelmann, J. F. Donges, E. K. Smith, M. Milkoreit, C. Eder, J. Heitzig, A. Katsanidou, **M. Wiedermann**, N. Wunderling, T. M. Lenton\
+[Social tipping processes for sustainability: An analytical framework](https://www.sciencedirect.com/science/article/pii/S0921800921003013)\
+Ecological Economics 192, 107242 (2022)
 
 **P23** J.F. Donges, J. Lochner, N. Kitzmann, J. Heitzig, S. Lehmann, **M. Wiedermann**, J. Vollmer\
 [Dose–response functions and surrogate models for exploring social contagion in the Copenhagen Networks Study](https://link.springer.com/article/10.1140/epjs/s11734-021-00279-7)\
