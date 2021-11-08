@@ -4,12 +4,18 @@ date: 2019-02-25T11:33:03+01:00
 draft: false
 ---
 
-Hi, I'm Marc, a complex systems scientist interested in
-studying how human behavior, individual and collective, affects
-environmental change and vice versa. I hold a PhD in theoretical physics with a
-background in complex system's studies, time series analysis, complex network
-theory and data science. I'm an alumni of the Humboldt-University of Berlin, The Chinese University of
-Hong Kong and the Complexity Science Department of the Potsdam Institute for Climate Impact Research.
+Hi, I'm Marc, a PhD in theoretical physics with a background in complex
+system's studies, time series analysis, complex network theory and data
+science. 
+
+I currently work as a PostDoc and Data Scientist in the [Research on Complex
+Systems](https://rocs.hu-berlin.de/) group at the Humboldt-Universit of Berlin and
+the Project Group [Computational
+Epidemiology](https://www.rki.de/DE/Content/Forsch/Projektgruppen/Projektgruppe_4/P4_node.html)
+at the Robert-Koch Institute.
+
+I'm an alumni of the Chinese University of Hong Kong and the Complexity Science
+Department of the Potsdam Institute for Climate Impact Research.
 
 ### News
 
