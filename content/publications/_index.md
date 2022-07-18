@@ -4,11 +4,22 @@ date: 2019-02-24T19:10:15+01:00
 draft: false
 ---
 
-<!--Preprints of most my publications are also found in the
-[arXiv](https://arxiv.org/search/physics?searchtype=author&query=Wiedermann%2C+M).
--->
-
 ### Preprint
+
+**M. Wiedermann**, A. H. Rose, B. F. Maier, J. J. Kolb, D. Hinrichs, D. Brockmann\
+[Evidence for positive long‑and short‑term effects of vaccinations against COVID‑19 in wearable sensor metrics – Insights from the German Corona Data Donation Project](https://arxiv.org/abs/2204.02846)
+
+P. Sprengholz, R. Bruckmann, **M. Wiedermann**, D. Brockmann, C. Betsch\
+From Delta to Omicron: The role of individual factors and social context in compliance with pandemic regulations and recommendations
+
+E. K. Smith, **M. Wiedermann**, J. F. Donges, J. Heitzig, R. Winkelmann\
+[Concern and anticipation of sea‑level rise provide grounds for social tipping towards climate action](https://osf.io/nyquv/)
+
+B. F. Maier, **M. Wiedermann**, A. Burdinski, P. Klamser, M. A. Jenny, C. Betsch, D. Brockmann\
+[Germany’s current COVID‑19 crisis is mainly driven by the unvaccinated](https://arxiv.org/abs/2111.12806)
+
+E. K. Smith, C. Eder, J. F. Donges, J. Heitzig, A. Katsanidou, **M. Wiedermann**, R. Winkelmann\
+[Domino Effects in the Earth System – The role of wanted social tipping points](https://osf.io/d8scb)
 
 F. Schunck, **M. Wiedermann**, J. Heizig, J. F. Donges\
 [A dynamic network model of societal complexity and resilience inspired by

@@ -4,6 +4,10 @@ date: 2019-02-24T22:42:27+01:00
 draft: false
 ---
 
+**Jun. '21**: \
+Guest Lecture: Tipping points in the Anthropocene\
+Seminar on People-centered Planetary Health, University of Erfurt
+
 **Sep. '17 - Dec. '19**: \
 Die Erde als komplexes System: von Klimawandel zu
 Nachhaltigkeitstransformation\

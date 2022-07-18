@@ -1,8 +1,14 @@
 ---
-title: "Conferences"
+title: "Conferences & Talks"
 date: 2019-02-25T10:56:44+01:00
 draft: false
 ---
+
+**May '22**: Zuse Institute, Berlin\
+**Invited:** [Big Data and Citizen Science in the fight against COVID-19 — The Corona Data Donation Project](https://www.mi.fu-berlin.de/changesplus/abstract-marc2.html)
+
+**Nov. '21**: Complexity Science Hub, Vienna\
+**Invited:** [Concern and anticipation of sea-level rise provide grounds for social tipping towards climate action](https://www.csh.ac.at/event/csh-talk-keith-smith-marc-wiedermann-concern-and-anticipation-of-sealevel-rise-ground-for-social-tipping-towards-climate-action/)
 
 **Aug. '20**: Princeton-PIK-SRC workshop on *Network Resilience, Sustainable
 Cities, and the Global Food System* (held online)\

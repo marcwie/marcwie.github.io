@@ -17,6 +17,7 @@ at the Robert-Koch Institute.
 I'm an alumni of the Chinese University of Hong Kong and the Complexity Science
 Department of the Potsdam Institute for Climate Impact Research.
 
+<!--
 ### News
 
 **04 Oct. '21:** Our new
@@ -32,15 +33,7 @@ behaviour.
 which provides a spatially explicit and global overview on precipitation responses to different types of the
 El Niño–Southern Oscillation.
 
-**05 Nov. '20:** I appeared at the [Scientists for Future
-Podcast](https://s4f-podcast.de/) to discuss social and natural
-tipping elements as well as their potential interactions. The full episode
-(in German) is available on the [S4F
-website](https://s4f-podcast.de/2020/11/s4f008-domino-erdsystem/),
-[iTunes](https://podcasts.apple.com/de/podcast/folge-9-dominoeffekte-im-erdsystem/id1498309073?i=1000497379327)
-and [Spotify.](https://open.spotify.com/episode/0j0GxFbkw4WeBg0xH7Izxi?si=wQaF9SmKTDWZ_uBlL1_vJQ)
 
-<!--
 **17 Mar. '21:** Our new paper concerning [Optimization of coupling and global
 collapse in diffusively coupled socio-ecological resource exploitation
 networks](https://iopscience.iop.org/article/10.1088/1367-2630/abe0db) lead by
@@ -116,6 +109,14 @@ of the [copan
 collaboration](https://www.pik-potsdam.de/research/projects/activities/copan).
 
 My interests are in complex networks, time series analysis, complex contagion and social tipping.
+
+**05 Nov. '20:** I appeared at the [Scientists for Future
+Podcast](https://s4f-podcast.de/) to discuss social and natural
+tipping elements as well as their potential interactions. The full episode
+(in German) is available on the [S4F
+website](https://s4f-podcast.de/2020/11/s4f008-domino-erdsystem/),
+[iTunes](https://podcasts.apple.com/de/podcast/folge-9-dominoeffekte-im-erdsystem/id1498309073?i=1000497379327)
+and [Spotify.](https://open.spotify.com/episode/0j0GxFbkw4WeBg0xH7Izxi?si=wQaF9SmKTDWZ_uBlL1_vJQ)
 
 
 -->

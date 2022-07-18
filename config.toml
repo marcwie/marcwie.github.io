@@ -13,14 +13,14 @@ title               = "Marc Wiedermann"
 pluralizelisttitles = false
 #googleAnalytics     = "G-RW5G7TBQZ0"
 
-[permalinks]
-blog  = "blog/:slug/"
+#[permalinks]
+#blog  = "blog/:slug/"
 
-[[menu.main]]
-name                   = "Blog"
-weight                 = -120
-identifier             = "blog"
-url                    = "/blog/"
+#[[menu.main]]
+#name                   = "Blog"
+#weight                 = -120
+#identifier             = "blog"
+#url                    = "/blog/"
 
 [[menu.main]]
 name                   = "Publications"
@@ -40,11 +40,11 @@ weight                 = -110
 identifier             = "conferences"
 url                    = "/conferences/"
 
-[[menu.main]]
-name                   = "Projects"
-weight                 = -110
-identifier             = "projects"
-url                    = "/projects/"
+#[[menu.main]]
+#name                   = "Projects"
+#weight                 = -110
+#identifier             = "projects"
+#url                    = "/projects/"
 
 [params]
 avatar = "img/profile.jpeg"
@@ -55,6 +55,7 @@ email = "marcw@physik.hu-berlin.de"
 extracssfiles = ["/css/override.css"]
 linkedin = "//linkedin.com/in/marc-wiedermann-995958210"
 twitter = "//twitter.com/m_wiedermann"
+paginate = 10
 
 [markup.goldmark.renderer]
 unsafe = true
