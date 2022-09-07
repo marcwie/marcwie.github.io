@@ -4,10 +4,10 @@ date: 2019-02-25T10:56:44+01:00
 draft: false
 ---
 
-**Sep '22**: Congress of the German Psychological Society\
+**Sep. '22**: Congress of the German Psychological Society\
 **Invited:** Computational social science models to explore shifts & kicks towards climate action
 
-**Jun '22**: Complexity Science Hub, Vienna\
+**Jun. '22**: Complexity Science Hub, Vienna\
 **Invited:** Big Data and Citizen Science in the fight against COVID-19 — The Corona Data Donation Project
 
 **May '22**: Zuse Institute, Berlin\
