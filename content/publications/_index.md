@@ -15,9 +15,6 @@ From Delta to Omicron: The role of individual factors and social context in comp
 E. K. Smith, **M. Wiedermann**, J. F. Donges, J. Heitzig, R. Winkelmann\
 [Concern and anticipation of sea‑level rise provide grounds for social tipping towards climate action](https://osf.io/nyquv/)
 
-B. F. Maier, **M. Wiedermann**, A. Burdinski, P. Klamser, M. A. Jenny, C. Betsch, D. Brockmann\
-[Germany’s current COVID‑19 crisis is mainly driven by the unvaccinated](https://arxiv.org/abs/2111.12806)
-
 E. K. Smith, C. Eder, J. F. Donges, J. Heitzig, A. Katsanidou, **M. Wiedermann**, R. Winkelmann\
 [Domino Effects in the Earth System – The role of wanted social tipping points](https://osf.io/d8scb)
 
@@ -25,10 +22,11 @@ F. Schunck, **M. Wiedermann**, J. Heizig, J. F. Donges\
 [A dynamic network model of societal complexity and resilience inspired by
 Tainter\'s theory of collapse](https://arxiv.org/abs/2102.06698)
 
-**M. Wiedermann**, R. Winkelmann,  J.F. Donges, C. Eder, J. Heitzig, A. Katsanidou, E.K. Smith\
-[Domino Effects in the Earth System – The potential role of wanted tipping points](https://arxiv.org/abs/1911.10063)
-
 ### Published
+
+**P25** B. F. Maier, **M. Wiedermann**, A. Burdinski, P. Klamser, M. A. Jenny, C. Betsch, D. Brockmann\
+[Germany’s current COVID‑19 crisis is mainly driven by the unvaccinated](https://www.nature.com/articles/s43856-022-00176-7)\
+Communications Medicine 2, 116 (2022)
 
 **P24** R. Winkelmann, J. F. Donges, E. K. Smith, M. Milkoreit, C. Eder, J. Heitzig, A. Katsanidou, **M. Wiedermann**, N. Wunderling, T. M. Lenton\
 [Social tipping processes for sustainability: An analytical framework](https://www.sciencedirect.com/science/article/pii/S0921800921003013)\
