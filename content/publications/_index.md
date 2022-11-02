@@ -9,6 +9,9 @@ draft: false
 **M. Wiedermann**, A. H. Rose, B. F. Maier, J. J. Kolb, D. Hinrichs, D. Brockmann\
 [Evidence for positive long‑and short‑term effects of vaccinations against COVID‑19 in wearable sensor metrics – Insights from the German Corona Data Donation Project](https://arxiv.org/abs/2204.02846)
 
+B. F. Maier, A. Burdinski, **M. Wiedermann**, A. H. Rose, M. an der Heiden, O. Wichmann, T. Harder, F. Schlosser, D. Brockmann\
+[Modeling the impact of the Omicron infection wave in Germany](https://www.medrxiv.org/content/10.1101/2022.07.07.22277391v1)
+
 P. Sprengholz, R. Bruckmann, **M. Wiedermann**, D. Brockmann, C. Betsch\
 From Delta to Omicron: The role of individual factors and social context in compliance with pandemic regulations and recommendations
 
@@ -25,7 +28,7 @@ Tainter\'s theory of collapse](https://arxiv.org/abs/2102.06698)
 ### Published
 
 **P25** B. F. Maier, **M. Wiedermann**, A. Burdinski, P. Klamser, M. A. Jenny, C. Betsch, D. Brockmann\
-[Germany’s current COVID‑19 crisis is mainly driven by the unvaccinated](https://www.nature.com/articles/s43856-022-00176-7)\
+[Germany’s fourth COVID-19 wave was mainly driven by the unvaccinated](https://www.nature.com/articles/s43856-022-00176-7)\
 Communications Medicine 2, 116 (2022)
 
 **P24** R. Winkelmann, J. F. Donges, E. K. Smith, M. Milkoreit, C. Eder, J. Heitzig, A. Katsanidou, **M. Wiedermann**, N. Wunderling, T. M. Lenton\
