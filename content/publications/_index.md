@@ -4,11 +4,13 @@ date: 2019-02-24T19:10:15+01:00
 draft: false
 ---
 
-### Preprint
+### Under review
 
 J. J. Kolbᵃ, J. M. Radinᵃ, G. Quer, A. H. Rose, **M. Wiedermann**ᵇ, J. A. Panditᵇ\
 Prevalence of Positive COVID-19 Test Results Collected by Digital Self Report in the U.S. and Germany\
 ᵃShared first authors, ᵇShared last authors
+
+### Preprint
 
 **M. Wiedermann**, A. H. Rose, B. F. Maier, J. J. Kolb, D. Hinrichs, D. Brockmann\
 [Evidence for positive long‑and short‑term effects of vaccinations against COVID‑19 in wearable sensor metrics – Insights from the German Corona Data Donation Project](https://arxiv.org/abs/2204.02846)
