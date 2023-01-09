@@ -9,7 +9,7 @@ system's studies, time series analysis, complex network theory and data
 science. 
 
 I currently work as a PostDoc and Data Scientist in the [Research on Complex
-Systems](https://rocs.hu-berlin.de/) group at the Humboldt-Universit of Berlin and
+Systems](https://rocs.hu-berlin.de/) group at the Humboldt-University of Berlin and
 the Project Group [Computational
 Epidemiology](https://www.rki.de/DE/Content/Forsch/Projektgruppen/Projektgruppe_4/P4_node.html)
 at the Robert-Koch Institute.

@@ -12,9 +12,6 @@ draft: false
 B. F. Maier, A. Burdinski, **M. Wiedermann**, A. H. Rose, M. an der Heiden, O. Wichmann, T. Harder, F. Schlosser, D. Brockmann\
 [Modeling the impact of the Omicron infection wave in Germany](https://www.medrxiv.org/content/10.1101/2022.07.07.22277391v1)
 
-P. Sprengholz, R. Bruckmann, **M. Wiedermann**, D. Brockmann, C. Betsch\
-From Delta to Omicron: The role of individual factors and social context in compliance with pandemic regulations and recommendations
-
 E. K. Smith, **M. Wiedermann**, J. F. Donges, J. Heitzig, R. Winkelmann\
 [Concern and anticipation of sea‑level rise provide grounds for social tipping towards climate action](https://osf.io/nyquv/)
 
@@ -26,6 +23,10 @@ F. Schunck, **M. Wiedermann**, J. Heizig, J. F. Donges\
 Tainter\'s theory of collapse](https://arxiv.org/abs/2102.06698)
 
 ### Published
+
+**P26** P. Sprengholz, R. Bruckmann, **M. Wiedermann**, D. Brockmann, C. Betsch\
+[From Delta to Omicron: The role of individual factors and social context in compliance with pandemic regulations and recommendations](https://github.com/marcwie/marcwie.github.io)\
+Social Science & Medicine 317, 115633 (2023)
 
 **P25** B. F. Maier, **M. Wiedermann**, A. Burdinski, P. Klamser, M. A. Jenny, C. Betsch, D. Brockmann\
 [Germany’s fourth COVID-19 wave was mainly driven by the unvaccinated](https://www.nature.com/articles/s43856-022-00176-7)\
