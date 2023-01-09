@@ -25,7 +25,7 @@ Tainter\'s theory of collapse](https://arxiv.org/abs/2102.06698)
 ### Published
 
 **P26** P. Sprengholz, R. Bruckmann, **M. Wiedermann**, D. Brockmann, C. Betsch\
-[From Delta to Omicron: The role of individual factors and social context in compliance with pandemic regulations and recommendations](https://github.com/marcwie/marcwie.github.io)\
+[From Delta to Omicron: The role of individual factors and social context in compliance with pandemic regulations and recommendations](https://www.sciencedirect.com/science/article/pii/S0277953622009431)\
 Social Science & Medicine 317, 115633 (2023)
 
 **P25** B. F. Maier, **M. Wiedermann**, A. Burdinski, P. Klamser, M. A. Jenny, C. Betsch, D. Brockmann\
