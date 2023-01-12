@@ -6,6 +6,9 @@ draft: false
 
 ### Under review
 
+F. Taubert, P. Sprengholz, L. Korn, S. Eitze, **M. Wiedermann**, C. Betsch\
+The negative impact of social connectedness on preventive measures during the COVID-19 Pandemic
+
 J. J. Kolbᵃ, J. M. Radinᵃ, G. Quer, A. H. Rose, **M. Wiedermann**ᵇ, J. A. Panditᵇ\
 Prevalence of Positive COVID-19 Test Results Collected by Digital Self Report in the U.S. and Germany\
 ᵃShared first authors, ᵇShared last authors
