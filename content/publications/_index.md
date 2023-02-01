@@ -9,10 +9,6 @@ draft: false
 F. Taubert, P. Sprengholz, L. Korn, S. Eitze, **M. Wiedermann**, C. Betsch\
 The negative impact of social connectedness on preventive measures during the COVID-19 Pandemic
 
-J. J. Kolbᵃ, J. M. Radinᵃ, G. Quer, A. H. Rose, **M. Wiedermann**ᵇ, J. A. Panditᵇ\
-Prevalence of Positive COVID-19 Test Results Collected by Digital Self Report in the U.S. and Germany\
-ᵃShared first authors, ᵇShared last authors
-
 ### Preprint
 
 **M. Wiedermann**, A. H. Rose, B. F. Maier, J. J. Kolb, D. Hinrichs, D. Brockmann\
@@ -32,6 +28,11 @@ F. Schunck, **M. Wiedermann**, J. Heizig, J. F. Donges\
 Tainter\'s theory of collapse](https://arxiv.org/abs/2102.06698)
 
 ### Published
+
+**P27** J. J. Kolbᵃ, J. M. Radinᵃ, G. Quer, A. H. Rose, J. A. Panditᵇ, **M. Wiedermann**ᵇ\
+[Prevalence of Positive COVID-19 Test Results Collected by Digital Self Report in the U.S. and Germany](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800848)\
+JAMA Network Open, 6(1):e2253800 (2023)\
+ᵃShared first authors, ᵇShared last authors
 
 **P26** P. Sprengholz, R. Bruckmann, **M. Wiedermann**, D. Brockmann, C. Betsch\
 [From Delta to Omicron: The role of individual factors and social context in compliance with pandemic regulations and recommendations](https://www.sciencedirect.com/science/article/pii/S0277953622009431)\
