@@ -4,11 +4,6 @@ date: 2019-02-24T19:10:15+01:00
 draft: false
 ---
 
-### Under review
-
-F. Taubert, P. Sprengholz, L. Korn, S. Eitze, **M. Wiedermann**, C. Betsch\
-The negative impact of social connectedness on preventive measures during the COVID-19 Pandemic
-
 ### Preprint
 
 **M. Wiedermann**, A. H. Rose, B. F. Maier, J. J. Kolb, D. Hinrichs, D. Brockmann\
@@ -28,6 +23,10 @@ F. Schunck, **M. Wiedermann**, J. Heizig, J. F. Donges\
 Tainter\'s theory of collapse](https://arxiv.org/abs/2102.06698)
 
 ### Published
+
+**P28** F. Taubert, P. Sprengholz, L. Korn, S. Eitze, **M. Wiedermann**, C. Betsch\
+[Situational pathogen avoidance mediates the impact of social connectedness on preventive measures during the COVID-19 pandemic](https://www.nature.com/articles/s41598-023-29239-y)\
+Scientific Reports 13, 2418 (2023)
 
 **P27** J. J. Kolbᵃ, J. M. Radinᵃ, G. Quer, A. H. Rose, J. A. Panditᵇ, **M. Wiedermann**ᵇ\
 [Prevalence of Positive COVID-19 Test Results Collected by Digital Self Report in the U.S. and Germany](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800848)\
