@@ -9,9 +9,6 @@ draft: false
 **M. Wiedermann**, A. H. Rose, B. F. Maier, J. J. Kolb, D. Hinrichs, D. Brockmann\
 [Evidence for positive long‑and short‑term effects of vaccinations against COVID‑19 in wearable sensor metrics – Insights from the German Corona Data Donation Project](https://arxiv.org/abs/2204.02846)
 
-B. F. Maier, A. Burdinski, **M. Wiedermann**, A. H. Rose, M. an der Heiden, O. Wichmann, T. Harder, F. Schlosser, D. Brockmann\
-[Modeling the impact of the Omicron infection wave in Germany](https://www.medrxiv.org/content/10.1101/2022.07.07.22277391v1)
-
 E. K. Smith, **M. Wiedermann**, J. F. Donges, J. Heitzig, R. Winkelmann\
 [Concern and anticipation of sea‑level rise provide grounds for social tipping towards climate action](https://osf.io/nyquv/)
 
@@ -23,6 +20,10 @@ F. Schunck, **M. Wiedermann**, J. Heizig, J. F. Donges\
 Tainter\'s theory of collapse](https://arxiv.org/abs/2102.06698)
 
 ### Published
+
+**P29** B. F. Maier, A. Burdinski, **M. Wiedermann**, A. H. Rose, M. an der Heiden, O. Wichmann, T. Harder, F. Schlosser, D. Brockmann\
+[Modeling the impact of the Omicron infection wave in Germany](https://academic.oup.com/biomethods/advance-article/doi/10.1093/biomethods/bpad005/7082501)\
+Biology Methods and Protocols, bpad005 (2023)
 
 **P28** F. Taubert, P. Sprengholz, L. Korn, S. Eitze, **M. Wiedermann**, C. Betsch\
 [Situational pathogen avoidance mediates the impact of social connectedness on preventive measures during the COVID-19 pandemic](https://www.nature.com/articles/s41598-023-29239-y)\
