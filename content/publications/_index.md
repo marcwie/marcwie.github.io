@@ -6,11 +6,9 @@ draft: false
 
 ### Preprint
 
-**M. Wiedermann**, A. H. Rose, B. F. Maier, J. J. Kolb, D. Hinrichs, D. Brockmann\
-[Evidence for positive long‑and short‑term effects of vaccinations against COVID‑19 in wearable sensor metrics – Insights from the German Corona Data Donation Project](https://arxiv.org/abs/2204.02846)
-
-E. K. Smith, **M. Wiedermann**, J. F. Donges, J. Heitzig, R. Winkelmann\
-[Concern and anticipation of sea‑level rise provide grounds for social tipping towards climate action](https://osf.io/nyquv/)
+E. K. Smithᵃ, **M. Wiedermann**ᵃ, J. F. Donges, J. Heitzig, R. Winkelmann\
+[A global social activation model of enabling conditions for positive social tipping – the role of sea-level rise anticipation and climate change concern ](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1622/)\
+ᵃShared first authors
 
 E. K. Smith, C. Eder, J. F. Donges, J. Heitzig, A. Katsanidou, **M. Wiedermann**, R. Winkelmann\
 [Domino Effects in the Earth System – The role of wanted social tipping points](https://osf.io/d8scb)
@@ -20,6 +18,10 @@ F. Schunck, **M. Wiedermann**, J. Heizig, J. F. Donges\
 Tainter\'s theory of collapse](https://arxiv.org/abs/2102.06698)
 
 ### Published
+
+**P30** **M. Wiedermann**, A. H. Rose, B. F. Maier, J. J. Kolb, D. Hinrichs, D. Brockmann\
+[Evidence for positive long‑and short‑term effects of vaccinations against COVID‑19 in wearable sensor metrics](https://academic.oup.com/pnasnexus/article/2/7/pgad223/7225910)\
+PNAS Nexus 2(7), pgad223 (2023)
 
 **P29** B. F. Maier, A. Burdinski, **M. Wiedermann**, A. H. Rose, M. an der Heiden, O. Wichmann, T. Harder, F. Schlosser, D. Brockmann\
 [Modeling the impact of the Omicron infection wave in Germany](https://academic.oup.com/biomethods/advance-article/doi/10.1093/biomethods/bpad005/7082501)\
