@@ -4,6 +4,15 @@ date: 2019-02-25T10:56:44+01:00
 draft: false
 ---
 
+**Sep. '23**: Santa Fe Institute 🇺🇸\
+**Talk:** [Crowdsourced wearable data and citizen science for public health research — Insights from a large data set of daily behavior and physiology](https://www.santafe.edu/events/crowdsourced-wearable-data-and-citizen-science-public-health-research-insights-large-data-set-daily-behavior-and-physiology)
+
+**Mar. '23**: State Parliament of Baden Wuerttemberg 🇩🇪\
+**Invited:** [Citizen Science and Data Donation as a crisis management tool](https://www.landtag-bw.de/home/mediathek/videos/2023/20230331_ek_krisenfest_2.html) (in german)
+
+**Mar. '23**: Open Knowledge Lab Berlin 🇩🇪\
+**Invited:** [Corona Data Donation: Citizen science, public health and fighting against COVID-19](https://www.meetup.com/ok-lab-berlin/events/290826488)
+
 **Oct. '22**: Conference on Complex Systems, Palma de Mallorca 🇪🇸\
 **Talk:** [Big Data and Citizen Science in the fight against COVID-19 — The Corona Data Donation Project](https://www.ccs2022.org/index.php/programme/programme-at-a-glance)
 
