@@ -51,9 +51,9 @@ avatar = "img/profile.jpeg"
 author = "Marc Wiedermann"
 selfintro = ""
 github = "//github.com/marcwie"
-email = "marcw@physik.hu-berlin.de"
+email = "marc.wiedermann@hu-berlin.de"
 extracssfiles = ["/css/override.css"]
-linkedin = "//linkedin.com/in/marc-wiedermann-995958210"
+linkedin = "//linkedin.com/in/marc-wiedermann"
 twitter = "//twitter.com/m_wiedermann"
 paginate = 10
 
