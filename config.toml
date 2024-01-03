@@ -47,7 +47,7 @@ url                    = "/conferences/"
 #url                    = "/projects/"
 
 [params]
-avatar = "img/profile.jpeg"
+avatar = "img/DSC05322_crop.jpg"
 author = "Marc Wiedermann"
 selfintro = ""
 github = "//github.com/marcwie"
