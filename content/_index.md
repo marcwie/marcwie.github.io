@@ -4,18 +4,24 @@ date: 2019-02-25T11:33:03+01:00
 draft: false
 ---
 
-Hi, I'm Marc, a PhD in theoretical physics with a background in complex
+PhD in theoretical physics with a background in complex
 system's studies, time series analysis, complex network theory and data
 science. 
 
-I currently work as a PostDoc and Data Scientist in the [Research on Complex
-Systems](https://rocs.hu-berlin.de/) group at the Humboldt-University of Berlin and
-the Project Group [Computational
-Epidemiology](https://www.rki.de/DE/Content/Forsch/Projektgruppen/Projektgruppe_4/P4_node.html)
-at the Robert-Koch Institute.
+Postdoctoral Researcher, Data Scientist and Deputy Group Lead in the Project Group
+[Computational Epidemiology](https://rocs.hu-berlin.de/) at the Robert Koch
+Institute in Berlin. 
 
-I'm an alumni of the Chinese University of Hong Kong and the Complexity Science
-Department of the Potsdam Institute for Climate Impact Research.
+Scienfitic lead of the [Corona Data Donation
+Project](https://corona-datenspende.github.io/en/), a large-scale citizen
+science initiative in which over 120,000 German residents donated continuous
+daily measurements of resting heart rate, physical activity and sleep timing
+for the advancement of public health research.
+
+Former short-term visiting scholar to the Santa Fe Institute. Alumni of the
+Humboldt University of Berlin, the Chinese University of Hong Kong and the
+Complexity Science Department of the Potsdam Institute for Climate Impact
+Research.
 
 <!--
 ### News

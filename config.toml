@@ -35,7 +35,7 @@ identifier             = "teaching"
 url                    = "/teaching/"
 
 [[menu.main]]
-name                   = "Conferences"
+name                   = "Conferences & Talks"
 weight                 = -110
 identifier             = "conferences"
 url                    = "/conferences/"

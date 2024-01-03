@@ -5,7 +5,8 @@ draft: false
 ---
 
 **Sep. '23**: Santa Fe Institute 🇺🇸\
-**Talk:** [Crowdsourced wearable data and citizen science for public health research — Insights from a large data set of daily behavior and physiology](https://www.santafe.edu/events/crowdsourced-wearable-data-and-citizen-science-public-health-research-insights-large-data-set-daily-behavior-and-physiology)
+**Talk:** [Crowdsourced wearable data and citizen science for public health research — Insights from a large data set of daily behavior and physiology](https://www.santafe.edu/events/crowdsourced-wearable-data-and-citizen-science-public-health-research-insights-large-data-set-daily-behavior-and-physiology)\
+**Recording:** available [here](https://www.youtube.com/watch?v=TXVJ_dp6poI)
 
 **Mar. '23**: State Parliament of Baden Wuerttemberg 🇩🇪\
 **Invited:** [Citizen Science and Data Donation as a crisis management tool](https://www.landtag-bw.de/home/mediathek/videos/2023/20230331_ek_krisenfest_2.html) (in german)
