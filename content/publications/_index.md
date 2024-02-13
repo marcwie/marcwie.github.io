@@ -13,11 +13,16 @@ E. K. Smithᵃ, **M. Wiedermann**ᵃ, J. F. Donges, J. Heitzig, R. Winkelmann\
 E. K. Smith, C. Eder, J. F. Donges, J. Heitzig, A. Katsanidou, **M. Wiedermann**, R. Winkelmann\
 [Domino Effects in the Earth System – The role of wanted social tipping points](https://osf.io/d8scb)
 
-F. Schunck, **M. Wiedermann**, J. Heizig, J. F. Donges\
-[A dynamic network model of societal complexity and resilience inspired by
-Tainter\'s theory of collapse](https://arxiv.org/abs/2102.06698)
-
 ### Published
+
+**P32** S. Gilbert, K. Baca-Motes, G. Quer, **M. Wiedermann**, D. Brockmann\
+[Citizen data sovereignty is key to wearables and wellness data reuse for the common good](https://www.nature.com/articles/s41746-024-01004-z)\
+npj Digital Medicine 7, 27 (2024)
+
+**P31** F. Schunck, **M. Wiedermann**, J. Heizig, J. F. Donges\
+[A dynamic network model of societal complexity and resilience inspired by
+Tainter\'s theory of collapse](https://www.mdpi.com/1099-4300/26/2/98)\
+Entropy 2024, 26(2), 98 (2024)
 
 **P30** **M. Wiedermann**, A. H. Rose, B. F. Maier, J. J. Kolb, D. Hinrichs, D. Brockmann\
 [Evidence for positive long‑and short‑term effects of vaccinations against COVID‑19 in wearable sensor metrics](https://academic.oup.com/pnasnexus/article/2/7/pgad223/7225910)\
